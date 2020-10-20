@@ -1,6 +1,6 @@
 languageCode: "en-us"
 baseUrl: "http://localhost:1313"
-title: "Shorashim - Box of Israel"
+title: "E-Heza Docs"
 outputs:
 frontmatter:
   date:

@@ -1,40 +1,5 @@
-<footer class="">
+<footer class="footer">
   <div class="footer container">
-    {{ $headless := .Site.GetPage "/blocks" }}
-    {{ $block := $headless.Resources.Match "about-shorashim.md" }}
-    {{ range $block }}
-      <div class="about block">
-        <div class="narrow-container">
-          <h3>{{ .Title }}</h3>
-          {{ .Content }}
-        </div>
-
-      </div>
-      <div class="footer-bottom">
-        <div class="address">
-          Shorashim </br>
-          1415 North Dayton Street, 4DE </br>
-          Chicago, IL 60642 - info@shorashim.org
-
-        </div>
-        <div class="social">
-          <nav role="navigation">
-            <a href="http://www.facebook.com/shorashim"><i class="fa fa-facebook circle-icon" aria-hidden="true"></i></a>
-            <a href="http://www.twitter.com/shorashim"><i class="fa fa-twitter circle-icon" aria-hidden="true"></i></a>
-            <a href="http://www.instagram.com/shorashimisrael"><i class="fa fa-instagram circle-icon" aria-hidden="true"></i></a>
-            <a href="http://www.pinterest.com/shorashim"><i class="fa fa-pinterest circle-icon" aria-hidden="true"></i></a>
-            <a href="http://www.youtube.com/user/shorashim"><i class="fa fa-youtube circle-icon" aria-hidden="true"></i></a>
-          </nav>
-          <div class="privacy">
-            <a href="{{ .Site.BaseURL }}{{"/privacy" }}">Disclaimer & Privacy Policy</a>
-          </div>
-
-        </div>
-        <div class="logo">
-          <img src="{{ .Site.BaseURL }}/images/logo-horizontal.png" alt="Shorashim Logo">
-        </div>
-      </div>
-    {{ end }}
 
   </div>
 </footer>

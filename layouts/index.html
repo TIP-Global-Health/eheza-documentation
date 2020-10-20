@@ -6,7 +6,7 @@
     <section class="whats-inside">
 
       <div class="narrow-container">
-        {{ $headless := .Site.GetPage "/blocks" }}
+        {{ $headless := .Site.GetPage "/docs" }}
         {{ $block := $headless.Resources.Match "box-of-israel.md" }}
         {{ range $block }}
           <div class="preview block">

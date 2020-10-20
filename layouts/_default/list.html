@@ -2,6 +2,13 @@
 {{ define "main" }}
 {{/* Template: /default/list.html */}}
   {{ .Title }}
-  {{ .Content }}
+  <ul>
+    <!-- Ranges through content/posts/*.md -->
+    {{ range .Pages }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>
+    {{ end }}
+    </ul>
 
 {{ end }}

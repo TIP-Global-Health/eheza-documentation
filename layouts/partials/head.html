@@ -13,18 +13,7 @@
   <meta property="og:title" content="{{ .Site.Title }}">
 {{ end }}
 
-{{ $headless := .Site.GetPage "/blocks" }}
-{{ $block := $headless.Resources.Match "meta-description.md" }}
-{{ range $block }}
-  <meta name="description" content="{{ .Content }}">
-  <meta property="og:description" content="{{ .Content }}">
-{{ end }}
-
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@shorashim" />
-<meta property="og:image" content="{{ .Site.BaseURL }}{{"/images/box-header.jpg" | relURL }}">
-
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Oxygen:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato:700|Merriweather:400,700" rel="stylesheet">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed" "enableSourceMap" true ) }}
@@ -32,8 +21,3 @@
 <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
 
 <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
-
-{{ partial "google_analytics.html" . }}
