@@ -1,0 +1,66 @@
+.preview.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  .item {
+    width: 295px;
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+
+    .header {
+      color: $preview-header;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 0.5em 1em;
+      text-align: center;
+      background-color: $white;
+      height: 82px;
+
+      .title {
+        font-family: $montserrat;
+        text-transform: uppercase;
+      }
+
+      .description {
+        font-size: 12px;
+      }
+    }
+    img {
+      max-height: 200px;
+      width: 100%;
+      height: 100%;
+      object-position: center;
+      object-fit: cover;
+    }
+  }
+}
+
+.orders {
+  :nth-child(1) .title h3{ color: $order-blue; }
+  :nth-child(2) .title h3{ color: $order-red; }
+  :nth-child(3) .title h3{ color: $order-orange; }
+
+
+  .item {
+    text-align: center;
+    margin: 6em 0;
+    background-color: $background-gray;
+    padding: 2em;
+    color: $background-black;
+
+    a {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      background-color: $dark-blue;
+      width: 268px;
+      height: 40px;
+      color: $white;
+      text-decoration: none;
+      margin: 2em auto 1em;
+    }
+  }
+}

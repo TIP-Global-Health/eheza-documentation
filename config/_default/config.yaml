@@ -1,0 +1,12 @@
+languageCode: "en-us"
+baseUrl: "http://localhost:1313"
+title: "Shorashim - Box of Israel"
+outputs:
+frontmatter:
+  date:
+    - ":filename"
+    - ":default"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

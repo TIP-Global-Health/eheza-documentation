@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <div id="content">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+
+        {{ $script := resources.Get "javascript/script.js" }}
+        {{ $global := slice $script | resources.Concat "app.js" | minify | fingerprint }}
+
+        <script type="text/javascript" src="{{ $global.Permalink }}" integrity="{{ $global.Data.Integrity }}" media="screen"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js"></script>
+        <script src ="https://form.jotform.com/static/feedback2.js" type="text/javascript"></script><script type="text/javascript">
+                var JFL_202416448093151 = new JotformFeedback({
+                  formId: '202416448093151',
+                  base: 'https://form.jotform.com/',
+                  windowTitle: 'Chat With Us',
+                  background: '#FFA500',
+                  fontColor: '#FFFFFF',
+                  type: 'false',
+                  height: 500,
+                  width: 700,
+                  openOnLoad: false
+                });
+        </script>
+    </body>
+</html>

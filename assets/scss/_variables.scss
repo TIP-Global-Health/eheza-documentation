@@ -1,0 +1,58 @@
+//Custom Variables
+
+//Colors
+$blue-gray: #8aaab9;
+$dark-blue: #28355D;
+$header-gray-text: #525262;
+$black: #000000;
+$white: #ffffff;
+$background-white: #f7f7f7;
+$background-gray: #E7E7E7;
+$background-black: #353738;
+$order-blue: #3BB7DE;
+$order-red: #F27177;
+$order-orange: #F49D38;
+$box-gray: #353738;
+$box-text-gray: #848789;
+$preview-header: #071a3a;
+$testimonial-gray: #71727a;
+$partner-gray: #4c4c4c;
+
+//Font Stacks
+$montserrat: 'Montserrat', sans-serif;
+$openSans: 'Open Sans', sans-serif;
+$oxygen: 'Oxygen', sans-serif;
+
+//Screens
+$small-screen: 480px;
+$medium-screen: 720px;
+$mezzo-screen: 850px;
+$large-screen: 1120px;
+
+// Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+
+$font-family-base:        $oxygen !default;
+
+$font-size-base:          18px !default;
+$font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
+
+$font-size-h1:            floor(($font-size-base * 2.6)) !default; // ~36px
+$font-size-h2:            floor(($font-size-base * 2.15)) !default; // ~30px
+$font-size-h3:            ceil(($font-size-base * 1.7)) !default; // ~24px
+$font-size-h4:            ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-h5:            $font-size-base !default;
+$font-size-h6:            ceil(($font-size-base * 0.85)) !default; // ~12px
+
+//** Unit-less `line-height` for use in components like buttons.
+$line-height-base:        1.428571429 !default; // 20/14
+//** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
+$line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
+
+//** By default, this inherits from the `<body>`.
+$headings-font-family:    $montserrat !default;
+$headings-font-weight:    700 !default;
+$headings-line-height:    1.1 !default;
+$headings-color:          inherit !default;

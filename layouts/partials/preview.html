@@ -1,0 +1,11 @@
+<div class="project-teaser-title">
+  <div class="header">
+    <div class="title">
+      {{ .Title }}
+    </div>
+    <div class="description">
+      {{ .Params.description }}
+    </div>
+  </div>
+</div>
+<img src="{{ .Site.BaseURL }}/{{ .Params.image }}" alt="{{ .Title }}" class="ui image" />

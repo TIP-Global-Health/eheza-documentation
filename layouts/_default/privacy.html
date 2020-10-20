@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+  <main class="privacy-page">
+    <section class="privacy-text">
+
+      <div class="narrow-container">
+        {{ $headless := .Site.GetPage "/blocks" }}
+        {{ $block := $headless.Resources.Match "privacy-policy.md" }}
+        {{ range $block }}
+          <div class="privacy block">
+            <h2>{{ .Title }}</h2>
+            {{ .Content }}
+          </div>
+        {{ end }}
+    </section>
+  </main>
+
+{{ end }}

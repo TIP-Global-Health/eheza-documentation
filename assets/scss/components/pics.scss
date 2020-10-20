@@ -1,0 +1,15 @@
+.pics {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  .item {
+    width: 295px;
+    margin-bottom: 20px;
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
