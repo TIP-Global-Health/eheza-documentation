@@ -8,3 +8,5 @@ fields:
 - type: text
   name: section
   label: section
+pages:
+- content/docs/test-page.md
