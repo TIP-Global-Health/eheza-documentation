@@ -1,6 +1,6 @@
 languageCode: "en-us"
 baseUrl: "http://localhost:1313"
-title: "E-Heza Docs"
+title: "E-Heza Documentation"
 outputs:
 frontmatter:
   date:
