@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "General"
 title = "Test Page"
 
