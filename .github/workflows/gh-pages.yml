@@ -14,9 +14,9 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.4.12
+        uses: peaceiris/actions-hugo@v2.4.13
         with:
-          hugo-version: '0.75.5'
+          hugo-version: '0.75.1'
           extended: true
 
       - name: Build
