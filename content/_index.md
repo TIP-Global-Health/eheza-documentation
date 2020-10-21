@@ -1,5 +1,4 @@
 ---
-title: Shorashim - Box of Israel
-image: images/box-header.png
+title: E-Heza Documentation
 ---
 hello world!

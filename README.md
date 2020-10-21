@@ -1,4 +1,4 @@
-# Boxes of Israel Website 
+# E-Heza Documentation Website
 
 ## Requirements
 - Docker

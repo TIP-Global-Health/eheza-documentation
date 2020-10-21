@@ -1,102 +1,26 @@
 {{ define "main" }}
+<section class="content container">
+  <h3>General</h3>
+  <ul>
+    {{ range where .Site.Pages "Params.section" "General" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
 
-  <main class="homepage">
-    <section class="hero" style="background-image:url('{{"/images/box-header.jpg" | relURL }}')">
-    </section>
-    <section class="whats-inside">
+  <h3>Creating and Editing Content</h3>
+  <ul>
+    {{ range where .Site.Pages "Params.section" "Creating and Editing Content" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
 
-      <div class="narrow-container">
-        {{ $headless := .Site.GetPage "/docs" }}
-        {{ $block := $headless.Resources.Match "box-of-israel.md" }}
-        {{ range $block }}
-          <div class="preview block">
-            <img class="box-icon" src="{{"/images/box-icon.png" | relURL }}" alt="">
-            <h2>{{ .Title }}</h2>
-            {{ .Content }}
-            <div class="whats-inside-text">
-              Here's a preview of what's inside:
-            </div>
-          </div>
-        {{ end }}
+  <h3>Admin/Developer Functions</h3>
+  <ul>
+    {{ range where .Site.Pages "Params.section" "Admin/Developer Functions" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
 
-        <div class="preview cards">
-          {{ $headless := .Site.GetPage "/preview" }}
-          {{ $previews := $headless.Resources.Match "*.md" }}
-          {{ range first 6 (sort $previews ".Params.sort" "asc") }}
-            <div class="item">
-              {{ partial "preview.html" . }}
-            </div>
-          {{ end }}
-        </div>
-      </div>
-
-    </section>
-
-    <section class="testimonials">
-      <div class="narrow-container">
-        <div class="testimonial-slider">
-          {{ $headless := .Site.GetPage "/testimonials" }}
-          {{ $testimonials := $headless.Resources.Match "*.md" }}
-          {{ range $testimonials }}
-            <div class="item">
-              {{ partial "testimonial.html" . }}
-            </div>
-          {{ end }}
-</div>
-      </div>
-
-    </section>
-    <section class="get-a-box">
-      {{ $headless := .Site.GetPage "/blocks" }}
-      {{ $block := $headless.Resources.Match "get-a-box.md" }}
-      {{ range $block }}
-        <div class="get block">
-          <div class="narrow-container">
-            <h3>{{ .Title }}</h3>
-            {{ .Content }}
-          </div>
-
-        </div>
-      {{ end }}
-
-      <div class="orders narrow-container">
-        {{ $headless := .Site.GetPage "/orders" }}
-        {{ $orders := $headless.Resources.Match "*.md" }}
-        {{ range  (sort $orders ".Params.sort" "asc") }}
-          <div class="item">
-            {{ partial "order.html" . }}
-          </div>
-        {{ end }}
-
-
-    </section>
-    <section class="child-pics">
-      <div class="pics narrow-container">
-        {{ $headless := .Site.GetPage "/pics" }}
-        {{ $pics := $headless.Resources.Match "*.md" }}
-        {{ range  (sort $pics ".Params.sort" "asc") }}
-          <div class="item">
-            {{ partial "pics.html" . }}
-          </div>
-        {{ end }}
-
-
-
-    </section>
-    <section class="learn-more">
-      {{ $headless := .Site.GetPage "/blocks" }}
-      {{ $block := $headless.Resources.Match "learn-more.md" }}
-      {{ range $block }}
-        <div class="learn block">
-          <div class="narrow-container">
-            <h3>{{ .Title }}</h3>
-            {{ .Content }}
-          </div>
-
-        </div>
-      {{ end }}
-
-    </section>
-  </main>
+  </ul>
+</section>
 
 {{ end }}
