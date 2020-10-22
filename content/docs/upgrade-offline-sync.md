@@ -12,7 +12,7 @@ The first step is to download the new app from site. This is achieved simply by 
 
 The newest version should download automatically - indicated by the status icon at the top right corner of the screen. Yellow means a download is in progress, green means the download is complete. You should visit the deployment status page by tapping on the status indicator.
 
-{{< media image_path="uploads/deployment-status.jpg" class="half" > }}
+{{< media image_path="uploads/deployment-status.jpg" class="half" >}}
 
 There may be a manual step to activate the new app (like shown above) - in this
 case, tap on the "Activate New Version" button.
@@ -32,7 +32,7 @@ On an Android device (the directions are slightly different for a desktop, see b
 
 * Click on the "Site Settings" button on the following screen.
 
-{{< media image_path="uploads/site-settings.jpg" class="half" > }}
+{{< media image_path="uploads/site-settings.jpg" class="half" >}}
 
 * Click on the "Clear & Reset" button on the following screen.
 
