@@ -45,7 +45,14 @@ As a first instance, we use National ID to map children to mothers. For those th
 ### Things to check before uploading
 
 * **Make sure the spreadsheet is a Google Sheet**
+
+![](/uploads/save_google_sheet.png)
+
 * **Check the share settings. It needs to be set to "Anyone with the link".**
+
+![](/uploads/share_sheet.png)
+
+![](/uploads/anyone_with_link.png)
 
 ### Enter the Google Sheet ID
 
