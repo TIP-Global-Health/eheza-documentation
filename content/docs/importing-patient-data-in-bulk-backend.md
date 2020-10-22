@@ -6,7 +6,7 @@ title = "Importing patient data in bulk (backend)"
 +++
 ## Format of spreadsheet
 
-The template can be found [here](https://drive.google.com/drive/folders/10dC23Ag90oOOQdLFbqSu_6bU6L2CtQzO).
+The template can be found [**here**](https://drive.google.com/drive/folders/10dC23Ag90oOOQdLFbqSu_6bU6L2CtQzO).
 
 Use this folder to copy the templates and add google sheets to be referenced for the bulk import.
 
