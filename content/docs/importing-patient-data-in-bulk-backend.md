@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "Creating and Editing Content"
 title = "Importing patient data in bulk (backend)"
 
