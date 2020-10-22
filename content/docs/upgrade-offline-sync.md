@@ -32,7 +32,7 @@ On an Android device (the directions are slightly different for a desktop, see b
 
 * Click on the "Site Settings" button on the following screen.
 
-{{< media image_path="uploads/site-settings.jpg" class="half" > }}
+{{< media image_path="uploads/site-settings.jpg" class="half" >}}
 
 * Click on the "Clear & Reset" button on the following screen.
 
