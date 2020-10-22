@@ -6,7 +6,7 @@ title = "Importing patient data in bulk (backend)"
 +++
 ## Format of spreadsheet
 
-The template can be found [here](https://drive.google.com/drive/folders/10dC23Ag90oOOQdLFbqSu_6bU6L2CtQzO). 
+The template can be found [here](https://drive.google.com/drive/folders/10dC23Ag90oOOQdLFbqSu_6bU6L2CtQzO).
 
 Use this folder to copy the templates and add google sheets to be referenced for the bulk import.
 
@@ -14,13 +14,13 @@ Use this folder to copy the templates and add google sheets to be referenced for
 
 [**TEMPLATE to copy**](https://docs.google.com/spreadsheets/d/1zOoJqrZtelLaXQNU9VvluVekHQDcp2bfKk4HNkF50qY/edit#gid=0)
 
-_scroll right to see whole table_
+(_red is required, blue is optional_)
 
 ### Mother/Caregiver
 
 [**TEMPLATE to copy**](https://docs.google.com/spreadsheets/d/1LIzLl293UwtuBKRP3AWD2Qo7-grH_WRRslOWYsH7Roo/edit#gid=0)
 
-_scroll right to see whole table_
+(_red is required, blue is optional_)
 
 ### Notes
 
