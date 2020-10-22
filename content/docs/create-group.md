@@ -4,9 +4,7 @@ title: Create Group
 section: "Creating and Editing Content"
 ---
 
-{{< media
-   image_path="uploads/create-group.jpg"
->}}
+{{< media image_path="uploads/create-group.jpg" >}}
 
 1. On the E-Heza Admin Menu click Create Group or go directly to path /node/add/clinic.
 

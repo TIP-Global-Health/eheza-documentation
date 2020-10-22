@@ -12,11 +12,7 @@ The first step is to download the new app from site. This is achieved simply by 
 
 The newest version should download automatically - indicated by the status icon at the top right corner of the screen. Yellow means a download is in progress, green means the download is complete. You should visit the deployment status page by tapping on the status indicator.
 
-{{< media
-image_path="uploads/deployment-status.jpg"
-class="half"
-
-> }}
+{{< media image_path="uploads/deployment-status.jpg" class="half" > }}
 
 There may be a manual step to activate the new app (like shown above) - in this
 case, tap on the "Activate New Version" button.
@@ -32,35 +28,19 @@ On an Android device (the directions are slightly different for a desktop, see b
 * In the chrome browser, go to [https://eheza.global/app](https://eheza.global/app) (do this in the Chrome browser even if you have the app pinned to your homepage on the device).
 * Click on the Green lock icon just to the left of the address bar in the browser.
 
-{{< media
-image_path="uploads/green-lock.jpg"
-class="half"
-
-> }}
+{{< media image_path="uploads/green-lock.jpg" class="half" >}}
 
 * Click on the "Site Settings" button on the following screen.
 
-{{< media
-image_path="uploads/site-settings.jpg"
-class="half"
-
-> }}
+{{< media image_path="uploads/site-settings.jpg" class="half" > }}
 
 * Click on the "Clear & Reset" button on the following screen.
 
-{{< media
-image_path="uploads/clear-reset.jpg"
-class="half"
-
-> }}
+{{< media image_path="uploads/clear-reset.jpg" class="half" >}}
 
 * Click on the "Clear & Reset" again on the confirmation screen.
 
-{{< media
-image_path="uploads/reset-confirmation.jpg"
-class="half"
-
-> }}
+{{< media image_path="uploads/reset-confirmation.jpg" class="half" >}}
 
 After this step, you should pin the app to your home screen by clicking on the menu on the top right and choosing “Add to home screen.”
 
@@ -70,35 +50,19 @@ Close the Chrome application - you will continue to access the application throu
 
 Our new application works a little differently in that devices are now paired to the backend. This makes it easy for nurses to log in and out and for devices to switch between sessions. It does, however require that an admin do a little setup work on the device to get it ready for use.
 
-{{< notification
-message="You will need an admin (not nurse) password to the backend to perform this step. All admin users and passwords were kept from the previous app version."
-type="alert"
-
-> }}
+{{< notification message="You will need an admin (not nurse) password to the backend to perform this step. All admin users and passwords were kept from the previous app version." type="alert" >}}
 
 To pair a device with the backend, you need to create the "Device" on the backend at [https://eheza.global](https://eheza.global). In the backend menu, go to Content -> Add Content -> Device, and you'll see something like this:
 
-{{< media
-image_path="uploads/create-device.png"
-class="half"
-
-> }}
+{{< media image_path="uploads/create-device.png" class="half" >}}
 
 Fill in the name with something that identifies the device (e.g. E-Heza Tablet 1). You can leave the pairing code blank, as it will be auto-generated. Then, you should see something like this -- note the pairing code that was generated.
 
-{{< media
-image_path="uploads/add-device.png"
-class="half"
-
-> }}
+{{< media image_path="uploads/add-device.png" class="half" >}}
 
 Back on the app on the tablet, you should see this screen:
 
-{{< media
-image_path="uploads/pairing-screen.png"
-class="half"
-
-> }}
+{{< media image_path="uploads/pairing-screen.png" class="half" >}}
 
 Enter your pairing code.
 
@@ -108,35 +72,19 @@ If you enter a correct pairing code, then the device will start to download data
 
 You can access the device status page using the icon at the top middle of the screen.
 
-{{< media
-image_path="uploads/device-status-icon.jpg"
-class="half"
-
-> }}
+{{< media image_path="uploads/device-status-icon.jpg" class="half" >}}
 
 In this step, we are concerned only with the data under the Sync Status (General)
 
 This is what that section looks like when there is still data left to sync:
 
-{{< media
-image_path="uploads/items-remaining.jpg"
-class="half"
-
-> }}
+{{< media image_path="uploads/items-remaining.jpg" class="half" >}}
 
 This is what that section looks like when the syncing is complete:
 
-{{< media
-image_path="uploads/no-items-remaining.jpg"
-class="half"
+{{< media image_path="uploads/no-items-remaining.jpg" class="half" >}}
 
-> }}
-
-{{< notification
-message="The initial sync on the device can take a very long time (up to 30 minutes with a good internet connection) and it can pause during the process if it encounters problems. This sync only needs to be performed once for a device, but it is important that it is done fully before the device can be used."
-type="alert"
-
-> }}
+{{< notification message="The initial sync on the device can take a very long time (up to 30 minutes with a good internet connection) and it can pause during the process if it encounters problems. This sync only needs to be performed once for a device, but it is important that it is done fully before the device can be used." type="alert" >}}
 
 There are a few things to note about the initial sync process:
 
@@ -162,11 +110,7 @@ There is now a "Nurse" content type on the backend. All the "users" in the forme
 
 All current nurses and each new nurse added to the system must be given their unique pin code in order to login to the tablet.
 
-{{< notification
-message="<b>Note about PIN codes:</b> Nurse PINs and Device PINs are different things - Nurse PINs are used to identify the person who is using the device. It is used every time a nurse accesses the app. Device PINs are used to pair a device with the backend - it is only used once when a device is initially synced and must be reset when a device needs to be paired again."
-type="alert"
-
-> }}
+{{< notification message="<b>Note about PIN codes:</b> Nurse PINs and Device PINs are different things - Nurse PINs are used to identify the person who is using the device. It is used every time a nurse accesses the app. Device PINs are used to pair a device with the backend - it is only used once when a device is initially synced and must be reset when a device needs to be paired again." type="alert" >}}
 
 ## Main Menu Screen
 
@@ -203,19 +147,11 @@ Now, before you set out to a remote area that has no Internet connectivity, you 
 
 To end a session, there is still an "End Session" button:
 
-{{< media
-image_path="uploads/end-session.png"
-class="half"
-
-> }}
+{{< media image_path="uploads/end-session.png" class="half" >}}
 
 Which, when you click it, shows this:
 
-{{< media
-image_path="uploads/end-session-confirmation.png"
-class="half"
-
-> }}
+{{< media image_path="uploads/end-session-confirmation.png" class="half" >}}
 
 If you click on "Continue" (to close the session), then you get taken back to the clinic page, which now shows the session as being closed:
 

@@ -6,10 +6,7 @@ section: General
 
 Nurses login to a device using a PIN code that is assigned by an admin or is automatically generated when the nurse is created. A nurse cannot reset their own PIN code or request that it be reset in any automated way.
 
-{{< media
-   image_path="uploads/pin-code.jpg"
-   class="half"
->}}
+{{< media image_path="uploads/pin-code.jpg" class="half" >}}
 
 Notes about login and logout.
 

@@ -29,7 +29,5 @@ section: "Creating and Editing Content"
 If you need to create a new PIN code, you must add it manually as it will not be automatically generated for an existing nurse. The PIN must be unique from any other nurse in the system.
 
 
-{{< notification
-   message="<b>Note about PIN codes:</b> Nurse PINs and Device PINs are different things - Nurse PINs are used to identify the person who is using the device. It is used every time a nurse accesses the app. Device PINs are used to pair a device with the back end - it is only used once when a device is initially synced and must be reset when a device needs to be paired again."
-   type="alert"
+{{< notification message="<b>Note about PIN codes:</b> Nurse PINs and Device PINs are different things - Nurse PINs are used to identify the person who is using the device. It is used every time a nurse accesses the app. Device PINs are used to pair a device with the back end - it is only used once when a device is initially synced and must be reset when a device needs to be paired again." type="alert"
 >}}

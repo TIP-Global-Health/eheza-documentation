@@ -4,9 +4,7 @@ title: Login to the Admin Site
 section: General
 ---
 
-{{< media
-   image_path="uploads/login-page.jpg"
->}}
+{{< media image_path="uploads/login-page.jpg" >}}
 
 1. Go to [https://eheza.global](https://eheza.global)
 2. Enter your username and password

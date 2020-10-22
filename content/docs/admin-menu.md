@@ -6,10 +6,7 @@ section: General
 
 The E-Heza Admin Menu provides access to be able to create content on the backend. These tasks should only be accessed by an administrator that is familiar with the content structure.
 
-{{< media
-   image_path="uploads/admin-menu.jpg"
-   class="half"
->}}
+{{< media image_path="uploads/admin-menu.jpg" class="half" >}}
 
 The following options are available:
 - **[Create Device]({{ site.url >}}/pairing-device):** This is used to setup and pair a new device.
