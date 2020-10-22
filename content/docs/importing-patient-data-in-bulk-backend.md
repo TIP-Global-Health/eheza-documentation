@@ -58,4 +58,8 @@ As a first instance, we use National ID to map children to mothers. For those th
 
 To upload the data, you need to enter the Google Sheet ID. It is not the entire URL to the sheet, but this piece here:
 
+![](/uploads/copy_google_id.png)
+
+![](/uploads/enter_google_id.png)
+
 **_Note_**_: You'll need to import the mothers first, then the children. The children input checks if mothers/caregivers exist in order to create the relationship._
