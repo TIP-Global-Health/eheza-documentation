@@ -25,8 +25,8 @@ _scroll right to see whole table_
 
 ### Notes
 
-* Date format: **\`dd-mm-yyyy\`** (2 digits for days and month: \`01-01-1990\`)
-* Last name: All upper case |
+* Date format: **`dd-JAN-yyyy`** (2 digits for day: `01-JAN-1990`)
+* Last name: All upper case
 * National ID: 16 digits (if not known, leave cell blank)
 * The names for the health center and group need to match exactly those in the backend
 * A Mother needs to be added only once, even if she has multiple children
