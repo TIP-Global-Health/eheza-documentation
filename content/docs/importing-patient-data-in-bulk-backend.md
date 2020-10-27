@@ -23,7 +23,7 @@ Use this folder to copy the templates and add google sheets to be referenced for
 
 ### Notes
 
-* Date format: **`dd-JAN-yyyy`** (2 digits for day: `01-JAN-1990`)
+* Date format: **`dd-Jan-yyyy`** (2 digits for day: `01-Jan-1990`)
 * Last name: All upper case
 * National ID: 16 digits (if not known, leave cell blank)
 * The names for the health center and group need to match exactly those in the backend
