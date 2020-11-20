@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "Admin/Developer Functions"
 title = "Delete a person, relationship, group"
 
