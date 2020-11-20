@@ -9,4 +9,5 @@ fields:
   name: section
   label: section
 pages:
+- content/docs/delete-a-person-relationship-group.md
 - content/docs/importing-patient-data-in-bulk-backend.md
