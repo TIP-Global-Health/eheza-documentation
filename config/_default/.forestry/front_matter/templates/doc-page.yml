@@ -10,5 +10,6 @@ fields:
   label: section
 pages:
 - content/docs/acute-illness-module.md
+- content/docs/antenatal-care-module.md
 - content/docs/delete-a-person-relationship-group.md
 - content/docs/importing-patient-data-in-bulk-backend.md
