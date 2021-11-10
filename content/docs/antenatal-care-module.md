@@ -4,12 +4,12 @@ section = "Health Center Module"
 title = "Antenatal Care Module"
 
 +++
-## **Antenatal Care**
+## **Antenatal Care @ Health Centers**
 
 The Antenatal Care (ANC) module at the Health Center works collaboratively with the CHW module. A nurse at a Health Center can see what has happened in CHW visits and seamlessly continue care.
 
-There are nine main activities in the ANC module. Activities appear in the main tray of E-Heza depending on which of their ANC visits a patient is on. The activities are Pregnancy Dating, History, Examination, Family Planning, Medication, Malaria Prevention, Medication Distribution, Danger Signs, Labs, and Photo.   
-  
+There are nine main activities in the ANC module. Activities appear in the main tray of E-Heza depending on which of their ANC visits a patient is on. The activities are Pregnancy Dating, History, Examination, Family Planning, Medication, Malaria Prevention, Medication Distribution, Danger Signs, Labs, and Photo.
+
 Pregnancy Dating confirms the last menstrual period (LMP), which in turn informs the Estimated Due Date (EDD) and Estimated Gestational Age (EGA). A nurse is able to confirm the LMP entered by the CHW, if a CHW has been seen previously.
 
 History is comprised of three sub-activities Obstetric History, Medical History, and Partner Information. These work together to inform Gravida and Para, as well as identify any previous complications during childbirth. E-Heza also screens both the mother and the partner for HIV, while also providing health education to both.
