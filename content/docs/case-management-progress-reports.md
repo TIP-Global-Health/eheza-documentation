@@ -18,4 +18,4 @@ Here are some examples:
 
 **Antenatal Report**
 
-(INSERT PHOTO HERE)
+![](/uploads/mock-up-antenatal-report.jpg)
