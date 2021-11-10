@@ -14,7 +14,7 @@ Here are some examples:
 
 **U5 Pediatric Report**
 
-(INSERT PHOTO HERE)
+![](/uploads/standard-pediatric-progress-report.png)
 
 **Antenatal Report**
 
