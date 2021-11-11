@@ -7,6 +7,12 @@
     {{ end }}
   </ul>
 
+  <h3>CHW Modules</h3>
+  <ul>
+    {{ range where .Site.Pages "Params.section" "CHW Modules" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
   <h3>Creating and Editing Content</h3>
   <ul>
     {{ range where .Site.Pages "Params.section" "Creating and Editing Content" }}
