@@ -9,8 +9,12 @@ fields:
   name: section
   label: section
 pages:
+- content/docs/acute-illness-module-chw.md
 - content/docs/acute-illness-module.md
+- content/docs/antenatal-care-chw.md
 - content/docs/antenatal-care-module.md
+- content/docs/case-management-progress-reports.md
 - content/docs/delete-a-person-relationship-group.md
+- content/docs/group-vs.individual-encounters.md
 - content/docs/importing-patient-data-in-bulk-backend.md
 - content/docs/standard-pediatric-visit.md
