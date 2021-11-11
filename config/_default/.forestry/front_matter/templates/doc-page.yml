@@ -9,6 +9,7 @@ fields:
   name: section
   label: section
 pages:
+- content/docs/acute-illness-module-chw.md
 - content/docs/acute-illness-module.md
 - content/docs/antenatal-care-module.md
 - content/docs/case-management-progress-reports.md
