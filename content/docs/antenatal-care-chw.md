@@ -1,6 +1,5 @@
 +++
-draft = true
-section = "CHW Module"
+section = "CHW Modules"
 title = "Antenatal Care Module - CHW"
 
 +++
