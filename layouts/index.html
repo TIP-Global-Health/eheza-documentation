@@ -13,6 +13,12 @@
      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
+  <h3>Health Center Modules</h3>
+  <ul>
+    {{ range where .Site.Pages "Params.section" "Health Center Modules" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
   <h3>Creating and Editing Content</h3>
   <ul>
     {{ range where .Site.Pages "Params.section" "Creating and Editing Content" }}
