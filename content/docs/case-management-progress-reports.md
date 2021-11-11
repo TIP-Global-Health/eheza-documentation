@@ -13,8 +13,8 @@ Here are some examples:
 
 **U5 Pediatric Report**
 
-![](/uploads/standard-pediatric-progress-report.png)
+{{< media image_path="/uploads/standard-pediatric-progress-report.png" class="half" >}}
 
 **Antenatal Report**
 
-![](/uploads/mock-up-antenatal-report.jpg)
+{{< media image_path="/uploads/mock-up-antenatal-report.jpg" class="half" >}}
