@@ -1,6 +1,5 @@
 +++
-draft = true
-section = ""
+section = "General"
 title = "Case Management + Progress Reports"
 
 +++
