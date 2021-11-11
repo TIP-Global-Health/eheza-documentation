@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "CHW Modules"
 title = "Acute Illness Module - CHW"
 
