@@ -1,7 +1,7 @@
 +++
 draft = true
 section = "CHW Module"
-title = "Antenatal Care - CHW"
+title = "Antenatal Care Module - CHW"
 
 +++
 **Antenatal Care Module**
