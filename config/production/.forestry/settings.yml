@@ -9,11 +9,7 @@ sections:
   label: Doc Pages
   create: all
   match: "**/*"
-- type: directory
-  path: config/production/content
-  label: Pages
-  create: all
-  match: "*"
+  new_doc_ext: md
 upload_dir: config/production/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
