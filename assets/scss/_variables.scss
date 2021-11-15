@@ -28,9 +28,8 @@ $selection-sharer: #0093DB;
 
 
 //Font Stacks
-$montserrat: 'Montserrat', sans-serif;
+$lato: 'Lato', sans-serif;
 $openSans: 'Open Sans', sans-serif;
-$oxygen: 'Oxygen', sans-serif;
 
 //Screens
 $small-screen: 480px;
@@ -42,7 +41,7 @@ $large-screen: 1120px;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-base:        $oxygen !default;
+$font-family-base:        $openSans !default;
 
 $font-size-base:          18px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
@@ -61,7 +60,7 @@ $line-height-base:        1.428571429 !default; // 20/14
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    $montserrat !default;
+$headings-font-family:    $lato !default;
 $headings-font-weight:    700 !default;
 $headings-line-height:    1.1 !default;
 $headings-color:          inherit !default;

@@ -1,10 +1,13 @@
 {{ define "main" }}
 
-<section class="title container">
+<section class="title">
   <h1 class="title">{{ .Title }}
 </section>
-<section class="content container">
+<section class="content">
   {{ .Content }}
+  <div class="last-modified">
+    <p>Last Modified:  {{ .Lastmod.Format "2 January 2006" }}</p>
+  </div>
 </section>
 
 {{ end }}

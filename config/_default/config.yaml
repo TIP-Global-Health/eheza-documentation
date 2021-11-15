@@ -6,7 +6,13 @@ frontmatter:
   date:
     - ":filename"
     - ":default"
+  lastmod:
+    - "lastmod"
+    - ":git"
+    - "date"
+    - "publishDate"
 markup:
   goldmark:
     renderer:
       unsafe: true
+enableGitInfo: true

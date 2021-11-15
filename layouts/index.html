@@ -1,38 +1,4 @@
 {{ define "main" }}
-<section class="content container">
-  <h3>General</h3>
-  <ul>
-    {{ range where .Site.Pages "Params.section" "General" }}
-     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
-
-  <h3>CHW Modules</h3>
-  <ul>
-    {{ range where .Site.Pages "Params.section" "CHW Modules" }}
-     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
-  <h3>Health Center Modules</h3>
-  <ul>
-    {{ range where .Site.Pages "Params.section" "Health Center Modules" }}
-     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
-  <h3>Creating and Editing Content</h3>
-  <ul>
-    {{ range where .Site.Pages "Params.section" "Creating and Editing Content" }}
-     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
-
-  <h3>Admin/Developer Functions</h3>
-  <ul>
-    {{ range where .Site.Pages "Params.section" "Admin/Developer Functions" }}
-     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-
-  </ul>
-</section>
+<h1>Welcome to E-Heza.</h1>
 
 {{ end }}
