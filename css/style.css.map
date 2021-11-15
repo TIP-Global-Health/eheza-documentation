@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/runner/work/eheza-guide/eheza-guide",
+	"sourceRoot": "/home/runner/work/eheza-documentation/eheza-documentation",
 	"sources": [
 		"assets/scss/style.scss",
 		"assets/scss/_variables.scss",
