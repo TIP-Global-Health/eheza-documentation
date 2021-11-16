@@ -29,6 +29,8 @@ Health Education guides the CHW each visit on what topics to cover with the pati
 
 Appointment Confirmation allows the CHW to confirm an appointment at the Health Center was scheduled for their patient and, if not, schedule one for them.
 
+![](/uploads/appt-confirm-chw.png)
+
 Pregnancy Outcome is performed post-partum and details any danger signs the mother or baby is experiencing and registers the newborn in the E-Heza system.
 
 ![](/uploads/preg-outcome-chw.png)
