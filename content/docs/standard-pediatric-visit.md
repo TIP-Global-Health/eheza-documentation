@@ -21,6 +21,8 @@ Immunizations tracks that a child is up to date with all of their required immun
 
 ECD tracks key developmental milestones over the first 5 years of life. Examples include: turning from their tummy to their back and making consonant sounds to playing make-believe as they are older.
 
+![](/uploads/spv-ecd.png)
+
 Medication is used to ensure that children are getting the appropriate doses of Vitamin A, Mebendazole, and Albendazole depending on their age.
 
 ![](/uploads/spv-medication.png)
