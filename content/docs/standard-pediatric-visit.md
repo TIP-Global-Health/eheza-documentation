@@ -11,6 +11,8 @@ There are 6 main activities in the SPV module: Danger Signs, Nutrition Assessmen
 
 Danger Signs is comprised of two sub-activities: symptom review and vitals. This sub-activity is used to immediately identify if there are any acute or more pressing illnesses with the child before continuing with the exam.
 
+![](/uploads/spv-symprevie.png)
+
 Nutrition Assessment is comprised of five sub-activities: height, head circumference, MUAC, nutrition, and weight. These combine to alert the Nurse if a child is malnourished or shows signs of macro/microcephaly. If a child does show signs of malnutrition, a nurse will then be able to recommend the child to the correct nutrition program - which is also tracked in E-Heza.
 
 ![](/uploads/spv-nutriasses.png)
