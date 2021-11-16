@@ -23,6 +23,8 @@ ECD tracks key developmental milestones over the first 5 years of life. Examples
 
 Medication is used to ensure that children are getting the appropriate doses of Vitamin A, Mebendazole, and Albendazole depending on their age.
 
+![](/uploads/spv-medication.png)
+
 Photo is used to track the growth of a child. A favorite feature among children, parents, and healthcare workers!
 
 ![](/uploads/spv-child-photo.png)
