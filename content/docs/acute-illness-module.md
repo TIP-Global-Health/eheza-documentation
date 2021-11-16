@@ -32,3 +32,5 @@ After an initial diagnosis is made, it can be confirmed with laboratory testing 
 The next steps are outlined depending on the diagnosis and severity of the illness. The next steps will outline medication to distribute, general health education, and allow a Nurse to schedule follow-ups with a CHW.
 
 Contact tracing is currently used for COVID-19 and can easily be used for other instances that require it.
+
+![](/uploads/hc-ai-contact-tracing.png)
