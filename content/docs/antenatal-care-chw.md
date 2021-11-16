@@ -15,6 +15,8 @@ Pregnancy Dating confirms the last menstrual period (LMP), which in turn informs
 
 Labs are basic labs to confirm the pregnancy, such as a simple Pregnancy Test.
 
+![](/uploads/pregnancy-test-chw.png)
+
 Danger Signs outlines if a mother is currently experiencing any danger signs which would implicate a larger issue and requires her to be seen at a Health Center immediately.
 
 ![](/uploads/anc-danger-signs-chw.png)
