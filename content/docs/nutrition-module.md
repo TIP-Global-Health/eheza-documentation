@@ -1,6 +1,6 @@
 +++
 section = "Health Center Modules"
-title = "Nutrition Module"
+title = "HC - Nutrition Module"
 
 +++
 The Nutrition Module allows nurses at Health Centers to screen children for signs of malnutrition, refer them to the correct program, and then follow up via group nutrition encounters.
