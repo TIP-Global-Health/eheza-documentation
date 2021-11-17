@@ -1,9 +1,9 @@
 +++
 section = "CHW Modules"
-title = "CHW - Antenatal Care Module "
+title = "Antenatal Care Module "
 
 +++
-**Antenatal Care Module**
+## **Antenatal Care Module @ Community Level**
 
 The Antenatal Care (ANC) module for CHW’s works collaboratively with the CHW module. A nurse at a Health Center can see what has happened in CHW visits and seamlessly continue care.
 
