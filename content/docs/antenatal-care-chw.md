@@ -23,6 +23,8 @@ Danger Signs outlines if a mother is currently experiencing any danger signs whi
 
 Birth Plan allows the CHW and the patient to discuss the intended birth plan, ensure the mother has all the essential items she needs, discuss post-partum family planning, and more.
 
+![](/uploads/chw-anc-birth-plan.png)
+
 Health Education guides the CHW each visit on what topics to cover with the patient from what to expect during pregnancy to hemorrhaging.
 
 ![](/uploads/health-education-chw.png)
