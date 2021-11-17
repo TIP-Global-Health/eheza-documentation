@@ -4,7 +4,7 @@ section = "CHW Modules"
 title = "Nutrition"
 
 +++
-## **Nutrition @ Community Level**
+## **Nutrition Module @ Community Level**
 
 The Nutrition Module at the CHW level allows early detection of malnutrition in children at the community level, allowing them to be referred to a health center nutrition program.
 
