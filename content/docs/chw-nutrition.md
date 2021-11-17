@@ -35,9 +35,11 @@ Photo is used to track the growth of a child. A favorite feature among children,
 
 At the CHW level, E-Heza also supports Nutrition Home Visits. This type of encounter has four activities: feeding, caring, hygiene, and food security.
 
-Feeding allows a CHW to follow up on if the child is receiving the correct amounts of food supplement, type of supplemental food, and any problems the child may be facing to eat adequate amounts of the food.
+Feeding allows a CHW to follow up on if the child is receiving the correct amounts of food supplement, type of supplemental food, and any problems the child may be facing to eat adequate amounts of the food.  
+![](/uploads/nutri-home-feeding.png)
 
-Caring allows the CHW to check-in on who the primary caregiver of a child is and that they are being kept clean.
+Caring allows the CHW to check-in on who the primary caregiver of a child is and that they are being kept clean.  
+![](/uploads/nutri-home-caring.png)
 
 Hygiene collects information about the household’s water source to ensure that the child has access to clean water.
 
