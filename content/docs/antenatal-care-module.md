@@ -1,6 +1,6 @@
 +++
 section = "Health Center Modules"
-title = "HC - Antenatal Care Module"
+title = "Antenatal Care Module"
 
 +++
 ## **Antenatal Care @ Health Centers**

@@ -1,6 +1,6 @@
 +++
 section = "Health Center Modules"
-title = "HC - Acute Illness Module"
+title = "Acute Illness Module"
 
 +++
 ## **Acute Illness @ Health Centers**
