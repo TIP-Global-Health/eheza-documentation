@@ -1,7 +1,7 @@
 +++
 draft = true
 section = "CHW Modules"
-title = "Nutrition"
+title = "Nutrition Module"
 
 +++
 ## **Nutrition Module @ Community Level**
