@@ -1,6 +1,6 @@
 +++
 section = "CHW Modules"
-title = "Acute Illness Module - CHW"
+title = "CHW - Acute Illness Module "
 
 +++
 ## **Acute Illness (CHW)**
