@@ -18,6 +18,10 @@ Nutrition collects data regarding visible signs of malnutrition in a child (e.g.
 
 ![](/uploads/chw-nutr-nutr.png)
 
+Height collects the height of a child in centimeters, automatically calculates their Z-Score, and highlights with a red or green arrow if they are above or below where they should be.
+
+![](/uploads/chw-nutrition-height.png)
+
 Weight collects the weight of a child in kilograms, automatically calculates their Z-Score for height and age, and highlights with a red or green arrow if they are above or below where they should be.
 
 ![](/uploads/chw-nutr-weight.png)
