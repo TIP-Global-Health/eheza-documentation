@@ -1,6 +1,6 @@
 +++
 section = "CHW Modules"
-title = "Antenatal Care Module - CHW"
+title = "CHW - Antenatal Care Module "
 
 +++
 **Antenatal Care Module**
