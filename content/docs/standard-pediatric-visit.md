@@ -1,6 +1,6 @@
 +++
 section = "Health Center Modules"
-title = "Standard Pediatric Visit"
+title = "HC - Standard Pediatric Visit"
 
 +++
 ## **Standard Pediatric Visit**
