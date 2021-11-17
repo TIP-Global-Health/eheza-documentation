@@ -1,10 +1,10 @@
 +++
 draft = true
 section = "CHW Modules"
-title = "CHW - Newborn Exam"
+title = "Newborn Exam"
 
 +++
-## **Newborn Exam (CHW)**
+## **Newborn Exam Module @ Community Level**
 
 The Newborn Exam is performed, when applicable, after an Antenatal Post-Partum encounter, once a newborn has been registered in E-Heza. The Newborn Exam allows CHW’s to check in on a child, ensure that it has received the necessary immunizations, and begin tracking the child’s growth and development.
 
