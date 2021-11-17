@@ -1,6 +1,6 @@
 +++
 section = "Health Center Modules"
-title = "HC - Nutrition Module"
+title = "Nutrition Module"
 
 +++
 ## Nutrition Module @ Health Centers
