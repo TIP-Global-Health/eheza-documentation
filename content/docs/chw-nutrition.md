@@ -39,12 +39,14 @@ Feeding allows a CHW to follow up on if the child is receiving the correct amoun
 
 ![](/uploads/nutri-home-feeding.png)
 
-Caring allows the CHW to check-in on who the primary caregiver of a child is and that they are being kept clean.
+Caring allows the CHW to check in on who the primary caregiver of a child is and that they are being kept clean.
+
+![](/uploads/nutri-home-caring.png)
 
 Hygiene collects information about the household’s water source to ensure that the child has access to clean water.
 
 ![](/uploads/nutri-home-hygiene.png)
 
-Food Security collects information about the households primary source of income and their current food availability.
+Food Security collects information about the household's primary source of income and their current food availability.
 
 ![](/uploads/nutri-home-food-security.png)
