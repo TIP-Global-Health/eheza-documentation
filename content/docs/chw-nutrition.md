@@ -18,6 +18,8 @@ Nutrition collects data regarding visible signs of malnutrition in a child (e.g.
 
 Weight collects the weight of a child in kilograms, automatically calculates their Z-Score for height and age, and highlights with a red or green arrow if they are above or below where they should be.
 
+![](/uploads/chw-nutr-weight.png)
+
 Photo is used to track the growth of a child. A favorite feature among children, parents, and healthcare workers!
 
 ![](/uploads/chw-nutr-photo.png)
