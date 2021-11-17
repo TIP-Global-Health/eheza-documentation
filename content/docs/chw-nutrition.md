@@ -12,6 +12,8 @@ There are five activities in the Nutrition Module at the CHW level: MUAC, nutrit
 
 MUAC collects the circumference of the child’s arm in centimeters and indicates immediately with a red or green arrow if the child is above or below where they should be.
 
+![](/uploads/chw-nutr-muac.png)
+
 Nutrition collects data regarding visible signs of malnutrition in a child (e.g. edema or brittle hair.
 
 ![](/uploads/chw-nutr-nutr.png)
