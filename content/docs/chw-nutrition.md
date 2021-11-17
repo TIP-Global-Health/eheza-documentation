@@ -1,10 +1,10 @@
 +++
 draft = true
 section = "CHW Modules"
-title = "CHW - Nutrition"
+title = "Nutrition"
 
 +++
-## **Nutrition (CHW)**
+## **Nutrition @ Community Level**
 
 The Nutrition Module at the CHW level allows early detection of malnutrition in children at the community level, allowing them to be referred to a health center nutrition program.
 
