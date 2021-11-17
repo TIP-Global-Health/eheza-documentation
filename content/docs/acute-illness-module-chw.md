@@ -1,9 +1,9 @@
 +++
 section = "CHW Modules"
-title = "CHW - Acute Illness Module "
+title = " Acute Illness Module "
 
 +++
-## **Acute Illness (CHW)**
+## **Acute Illness Module @ Community Level**
 
 The Acute Illness module for CHW’s is used as the first line of care. CHW’s are able to diagnose patients on the spot, provide immediate care and health education, or direct patients to a health center to receive further care.
 
