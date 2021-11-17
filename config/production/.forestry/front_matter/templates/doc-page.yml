@@ -9,4 +9,5 @@ fields:
   name: title
   label: title
 pages:
+- content/docs/chw-newborn-exam.md
 - content/docs/chw-nutrition.md
