@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "Health Center Modules"
 title = "COVID-19"
 
