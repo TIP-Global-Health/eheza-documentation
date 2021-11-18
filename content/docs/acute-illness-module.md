@@ -3,8 +3,6 @@ section = "Health Center Modules"
 title = "Acute Illness Module"
 
 +++
-## **Acute Illness @ Health Centers**
-
 The Acute Illness module at Health Center’s is able to collect more information than at the CHW level as there are more tools at the Nurse’s disposal at the Health Center.
 
 There are four main activities in the Acute Illness module: Symptom Review, Exposure/Travel History, Prior Treatment History, and Physical Exam.
