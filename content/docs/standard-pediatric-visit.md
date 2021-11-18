@@ -3,8 +3,6 @@ section = "Health Center Modules"
 title = "Standard Pediatric Visit Module"
 
 +++
-## **Standard Pediatric Visit**
-
 The Standard Pediatric Visit module (SPV) at the Health Center focuses on the health and development of children under 5 years of age. Complete with early childhood development (ECD), nutrition, and immunization tracking, SPV helps ensure that young children are on track in all aspects of development.
 
 There are 6 main activities in the SPV module: Danger Signs, Nutrition Assessment, Immunizations, ECD, medication, and photo.

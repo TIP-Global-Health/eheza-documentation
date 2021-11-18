@@ -3,8 +3,6 @@ section = "CHW Modules"
 title = " Acute Illness Module "
 
 +++
-## **Acute Illness Module @ Community Level**
-
 The Acute Illness module for CHW’s is used as the first line of care. CHW’s are able to diagnose patients on the spot, provide immediate care and health education, or direct patients to a health center to receive further care.
 
 There are four main activities in the Acute Illness module: Symptom Review, Exposure/Travel History, Prior Treatment History, and Physical Exam.
@@ -26,3 +24,5 @@ Physical Exam collects information on vitals (e.g. temperature and heart rate) a
 {{< media image_path="uploads/physical-exam.png" >}}
 
 The next steps are outlined depending on the diagnosis and severity of the illness. The next steps will outline basic medication distribution, health guidance/education, and referral to a health center (when necessary).
+
+You can see an example of a CHW using the Acute Illness module to diagnose a COVID-19 patient [here.](https://www.youtube.com/watch?v=r0A_SydPX50)
