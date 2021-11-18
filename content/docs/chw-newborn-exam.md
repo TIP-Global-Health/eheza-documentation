@@ -12,12 +12,12 @@ There are 3 main activities in the Newborn Exam: history, immunizations, and nut
 
 History confirms if the baby was born on the estimated due date and if there were any complications with the delivery.
 
-![](/uploads/newborn-history.png)
+{{< media image_path="uploads/newborn-history.png" >}}
 
 Immunizations ensure that the newborn received the Oral Polio Vaccine (OPV) and Bacillus Calmette - Guérin (BCG) immunizations at birth and that these records are updated in E-Heza.
 
-![](/uploads/newbord-iz.png)
+{{< media image_path="uploads/newbord-iz.png" >}}
 
 Nutrition Assessment checks the head circumference, weight, visible signs of malnutrition and takes a photo. This is the beginning of the U5 progress report and will help ensure a child stays on track as they grow.
 
-![](/uploads/newborn-nutrition.png)
+{{< media image_path="uploads/newborn-nutrition.png" >}}

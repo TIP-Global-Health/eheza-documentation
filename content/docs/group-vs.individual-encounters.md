@@ -11,10 +11,10 @@ At the CHW level, E-Heza is built out to accommodate both 1:1 visits, as well as
 
 Here is an example of what a group encounter screen may look like within an individual activity:
 
-![](/uploads/group-encounter-example.png)
+{{< media image_path="uploads/group-encounter-example.png" >}}
 
 At the Health Center level, E-Heza is built out to support group encounters for the Nutrition programs the software supports. This allows a nurse to collect information on height, weight, MUAC, FBF Distribution, Family Planning, Lactation, and Photos for each individual.
 
 Here is an example of what a group encounter screen may look like for a nutrition program:
 
-![](/uploads/group-encounter-hc-example.png)
+{{< media image_path="uploads/group-encounter-hc-example.png" >}}
