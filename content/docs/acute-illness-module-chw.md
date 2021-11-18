@@ -3,8 +3,6 @@ section = "CHW Modules"
 title = " Acute Illness Module "
 
 +++
-## **Acute Illness Module @ Community Level**
-
 The Acute Illness module for CHW’s is used as the first line of care. CHW’s are able to diagnose patients on the spot, provide immediate care and health education, or direct patients to a health center to receive further care.
 
 There are four main activities in the Acute Illness module: Symptom Review, Exposure/Travel History, Prior Treatment History, and Physical Exam.
