@@ -3,8 +3,6 @@ section = "Health Center Modules"
 title = "COVID-19"
 
 +++
-## **COVID-19 @ Health Centers**
-
 Acute Illness encounters at both the Health Center and CHW level accommodate for a COVID-19 diagnosis. At the Health Center level, this specific flow allows for rapid testing, medication distribution, and contact tracing.
 
 When a patient is suspected of having COVID at the Health Center level, they will be given a rapid test to confirm a diagnosis. They will then undergo a more in-depth physical exam to determine how severe their COVID case is. E-Heza will then direct the nurse on the appropriate next steps and medication distribution (if applicable).
