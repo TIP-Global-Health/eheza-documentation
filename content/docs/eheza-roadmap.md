@@ -1,10 +1,10 @@
 ---
 layout: default
-title: E-Heza Project Roadmap
+title: E-Heza Project Road Map
 section: "Community"
 ---
 
-
+The E-Heza Road Map is maintained by the [E-Heza Executive Committee](/docs/eheza-governance). Features requests can be made through the [documented feature request process](/docs/contribute-eheza).
 
 
 | Feature | Description | Release Date | Release | Status | Notes|

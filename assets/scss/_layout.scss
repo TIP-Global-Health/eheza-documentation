@@ -28,6 +28,17 @@ header {
   }
 }
 
+footer {
+  padding: 2em 0;
+  font-size: 0.85em;
+  background-color: #A8A8A8	;
+  color: #fff;
+
+  a, a:visited, a:hover, a:focus {
+    color: #fff;
+  }
+}
+
 .page {
   display: flex;
   flex-direction: row;
@@ -36,14 +47,17 @@ header {
 
 .sidebar {
   flex: 0 0 320px;
-  height: calc(100vh - 6rem);
+  height: calc(100vh - 18rem);
   transform: translateX(0);
   vertical-align: top;
   width: 320px;
   position: sticky;
+  top: 5em;
   backface-visibility: hidden;
   will-change: scroll-position;
   padding: 2em 2em 2em 4em;
+  overflow-y: scroll;
+  padding-bottom: 6em;
 
   h2 {
     font-size: 1em;
