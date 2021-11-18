@@ -3,8 +3,6 @@ section = "CHW Modules"
 title = "Nutrition Module"
 
 +++
-## **Nutrition Module @ Community Level**
-
 The Nutrition Module at the CHW level allows early detection of malnutrition in children at the community level, allowing them to be referred to a health center nutrition program.
 
 **General Nutrition Encounter**  
@@ -49,3 +47,5 @@ Hygiene collects information about the household’s water source to ensure that
 Food Security collects information about the household's primary source of income and their current food availability.
 
 {{< media image_path="uploads/nutri-home-food-security.png" >}}
+
+You can also see a group nutrition encounter at the community level in action [here.](https://www.youtube.com/watch?v=ICzO0VbQ0dA)
