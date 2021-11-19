@@ -1,6 +1,6 @@
 +++
 section = "Health Center Modules"
-title = "COVID-19"
+title = "COVID-19 Contact Tracing (within Acute Illness Module)"
 
 +++
 Acute Illness encounters at both the Health Center and CHW level accommodate for a COVID-19 diagnosis. At the Health Center level, this specific flow allows for rapid testing, medication distribution, and contact tracing.
