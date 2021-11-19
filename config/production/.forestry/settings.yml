@@ -5,6 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/community_docs
+  label: Community Documentation
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - doc-page
+- type: directory
   path: content/admin_docs
   label: Admin Documentation
   create: all
