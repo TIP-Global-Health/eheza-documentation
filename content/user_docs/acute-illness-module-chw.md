@@ -1,6 +1,6 @@
 +++
 section = "CHW Modules"
-title = " Acute Illness Module "
+title = "Acute Illness"
 
 +++
 The Acute Illness module for CHW’s is used as the first line of care. CHW’s are able to diagnose patients on the spot, provide immediate care and health education, or direct patients to a health center to receive further care.

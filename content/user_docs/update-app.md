@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Update the App
-section: "Admin/Developer Functions"
+section: General
 ---
 
 Updating the app is achieved simply by opening the app pinned to your homepage or pointing the chrome browser to the app page: [https://eheza.global/app](https://eheza.global/app)

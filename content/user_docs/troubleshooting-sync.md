@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Troubleshooting the initial sync
-section: "Admin/Developer Functions"
+section: General
 ---
 
 {{< notification message="The initial sync on the device can take a very long time (up to 30 minutes with a good internet connection) and it can pause during the process if it encounters problems. This sync only needs to be performed once for a device, but it is important that it is done fully before the device can be used." type="alert" >}}

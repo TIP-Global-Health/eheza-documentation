@@ -1,14 +1,20 @@
 <h2>User Documentation</h2>
+<h3>General</h3>
+<ul>
+  {{ range where (where .Site.RegularPages "Type" "user_docs") "Params.section" "General" }}
+   <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
 
   <h3>CHW Modules</h3>
   <ul>
-    {{ range where .Site.Pages "Params.section" "CHW Modules" }}
+    {{ range where (where .Site.RegularPages "Type" "user_docs") "Params.section" "CHW Modules" }}
      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
   <h3>Health Center Modules</h3>
   <ul>
-    {{ range where .Site.Pages "Params.section" "Health Center Modules" }}
+    {{ range where (where .Site.RegularPages "Type" "user_docs") "Params.section" "Health Center Modules" }}
      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
@@ -16,27 +22,27 @@
 <h2>Adminstrator Documentation</h2>
 <h3>General</h3>
 <ul>
-  {{ range where .Site.Pages "Params.section" "General" }}
+  {{ range where (where .Site.RegularPages "Type" "admin_docs") "Params.section" "General" }}
    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 
 <h3>Creating and Editing Content</h3>
 <ul>
-  {{ range where .Site.Pages "Params.section" "Creating and Editing Content" }}
+  {{ range where (where .Site.RegularPages "Type" "admin_docs") "Params.section" "Creating and Editing Content" }}
    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 
 <h2>Developer Documentation</h2>
 <ul>
-  {{ range where .Site.Pages "Params.section" "Admin/Developer Functions" }}
+  {{ range where .Site.RegularPages "Type" "developer_docs" }}
    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 <h2>Community Documentation</h2>
 <ul>
-  {{ range where .Site.Pages "Params.section" "Community" }}
+  {{ range where .Site.RegularPages "Type" "community_docs" }}
    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
