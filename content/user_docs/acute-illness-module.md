@@ -1,6 +1,6 @@
 +++
 section = "Health Center Modules"
-title = "Acute Illness Module"
+title = "Acute Illness"
 
 +++
 The Acute Illness module at Health Center’s is able to collect more information than at the CHW level as there are more tools at the Nurse’s disposal at the Health Center.

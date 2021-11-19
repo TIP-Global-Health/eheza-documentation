@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Registering Patients (on the App)"
-section: "Creating and Editing Content"
+section: General
 ---
 To begin registering a patient (or a related set of patients), tap "Register a Participant" on the main screen of the app.
 

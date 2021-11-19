@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating/Pairing a Device
-section: "Admin/Developer Functions"
+section: "General"
 ---
 
 ## Pairing a New Device

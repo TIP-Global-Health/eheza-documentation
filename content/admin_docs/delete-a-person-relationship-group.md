@@ -1,5 +1,5 @@
 +++
-section = "Admin/Developer Functions"
+section = "Creating and Editing Content"
 title = "Delete a person, relationship, group"
 
 +++

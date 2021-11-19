@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resetting the Environment
-section: "Admin/Developer Functions"
+section: General
 ---
 {{< notification message="Resetting the environment is done in extreme circumstances and should only be done with the guidance of an administrator. All data will be lost on the device and you will need to perform a lengthy initial sync." type="alert" >}}
 
