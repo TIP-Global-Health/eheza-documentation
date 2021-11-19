@@ -1,7 +1,8 @@
 ---
 title: E-Heza Documentation
+
 ---
-# Welcome to E-Heza</h1>
+# Welcome to E-Heza
 
 E-Heza Data Solutions is a digital app designed by and for the frontline health worker that can be used on a smartphone or tablet.
 
