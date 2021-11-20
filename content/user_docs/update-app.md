@@ -4,7 +4,7 @@ title: Update the App
 section: General
 ---
 
-Updating the app is achieved simply by opening the app pinned to your homepage or pointing the chrome browser to the app page: [https://eheza.global/app](https://eheza.global/app)
+Updating the app is achieved simply by opening the app pinned to your homepage or pointing the chrome browser the app page at `<base domain>/app`.
 
 The newest version should download automatically - indicated by the status icon at the top right corner of the screen. Yellow means a download is in progress, green means the download is complete. You should visit the deployment status page by tapping on the status indicator.
 

@@ -7,7 +7,7 @@ section: General
 
 On an Android device (the directions are slightly different for a desktop, see below):
 
-- In the chrome browser, go to [https://eheza.global/app](https://eheza.global/app) (do this in the Chrome browser even if you have the app pinned to your homepage on the device).
+- In the chrome browser, go to the app page at `<base domain>/app` (do this in the Chrome browser even if you have the app pinned to your homepage on the device).
 
 - Click on the Green lock icon just to the left of the address bar in the browser.
 

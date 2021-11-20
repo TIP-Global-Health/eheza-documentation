@@ -8,7 +8,7 @@ section: "General"
 
 {{< notification message="You will need an admin (not nurse) password to the backend to perform this step. All admin users and passwords were kept from the previous app version." type="alert" >}}
 
-To pair a device with the backend, you need to create the "Device" on the backend at [https://eheza.global](https://eheza.global).
+To pair a device with the backend, you need to create the "Device" on the backend.
 
  On the E-Heza Admin Menu click Create Device or go directly to path `/node/add/device`.
 

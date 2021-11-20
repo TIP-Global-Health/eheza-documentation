@@ -39,7 +39,7 @@ As a first instance, we use National ID to map children to mothers. For those th
 
 ## Upload in admin
 
-[https://eheza.global/admin/content/import](https://eheza.global/admin/content/import)
+`/admin/content/import`
 
 ### Things to check before uploading
 
