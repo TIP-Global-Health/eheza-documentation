@@ -6,7 +6,7 @@ section: General
 
 {{< media image_path="uploads/login-page.jpg" >}}
 
-1. Go to [https://eheza.global](https://eheza.global)
+1. Go to the installation domain of E-Heza
 2. Enter your username and password
 3. Click Log in button
 

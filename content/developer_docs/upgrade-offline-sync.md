@@ -8,7 +8,7 @@ section: Admin/Developer Functions
 
 ### Download the app
 
-The first step is to download the new app from site. This is achieved simply by opening the app pinned to your homepage or pointing the chrome browser to the app page: [https://eheza.global/app](https://eheza.global/app)
+The first step is to download the new app from site. This is achieved simply by opening the app pinned to your homepage or pointing the chrome browser to the app page at `<base domain>/app`.
 
 The newest version should download automatically - indicated by the status icon at the top right corner of the screen. Yellow means a download is in progress, green means the download is complete. You should visit the deployment status page by tapping on the status indicator.
 
@@ -25,7 +25,7 @@ Because this is a major upgrade, we need to be sure that all data from former ve
 
 On an Android device (the directions are slightly different for a desktop, see below):
 
-* In the chrome browser, go to [https://eheza.global/app](https://eheza.global/app) (do this in the Chrome browser even if you have the app pinned to your homepage on the device).
+* In the chrome browser, go to [the app page at `<base domain>/app` (do this in the Chrome browser even if you have the app pinned to your homepage on the device).
 * Click on the Green lock icon just to the left of the address bar in the browser.
 
 {{< media image_path="uploads/green-lock.jpg" class="half" >}}
@@ -52,7 +52,7 @@ Our new application works a little differently in that devices are now paired to
 
 {{< notification message="You will need an admin (not nurse) password to the backend to perform this step. All admin users and passwords were kept from the previous app version." type="alert" >}}
 
-To pair a device with the backend, you need to create the "Device" on the backend at [https://eheza.global](https://eheza.global). In the backend menu, go to Content -> Add Content -> Device, and you'll see something like this:
+To pair a device with the backend, you need to create the "Device" on the backend. In the backend menu, go to Content -> Add Content -> Device, and you'll see something like this:
 
 {{< media image_path="uploads/create-device.png" class="half" >}}
 
@@ -106,7 +106,7 @@ A couple of notes about login and logout.
 
 ### Pin Codes
 
-There is now a "Nurse" content type on the backend. All the "users" in the former setup have been converted to "Nurse" and given a random PIN code. So, you can look it up in the backend at: [https://eheza.global](https://eheza.global). For now, that would be by clicking on the "Content" menu, filtering for "Nurse", and either clicking on an existing entry, or creating a new one.
+There is now a "Nurse" content type on the backend. All the "users" in the former setup have been converted to "Nurse" and given a random PIN code. So, you can look it up in the backend at the base domain. For now, that would be by clicking on the "Content" menu, filtering for "Nurse", and either clicking on an existing entry, or creating a new one.
 
 All current nurses and each new nurse added to the system must be given their unique pin code in order to login to the tablet.
 
