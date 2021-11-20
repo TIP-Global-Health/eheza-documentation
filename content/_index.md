@@ -10,6 +10,6 @@ With a global shortfall of 18 million frontline healthcare workers and the press
 
 E-Heza captures essential data at the point of care to improve the health of mother and child by providing frontline health workers with immediate insights to help personalize information and advice, and help the mother track the well-being of her child.
 
-E-Heza is a project of [TIP Global Health](https://tipglobalhealth.org) and is an open source software project governed by the E-Heza Executive Committee. We welcome participation in the project through [contributions of code, testing, documentation, and feature requests](/community_docs/contribute-eheza). E-Heza open source software is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0").
+E-Heza is a project of [TIP Global Health](https://tipglobalhealth.org) and is an open source software project governed by the E-Heza Executive Committee. We welcome participation in the project through [contributions of code, testing, documentation, and feature requests](community_docs/contribute-eheza). E-Heza open source software is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0%22).
 
 The text of this documentation is also open source and is available under the [Creative Commons 4.0 International Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You can contribute to documentation at the [Github Repository](https://github.com/TIP-Global-Health/eheza-documentation).
