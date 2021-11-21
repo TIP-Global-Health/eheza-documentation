@@ -4,9 +4,9 @@
     <body>
         {{- partial "header.html" . -}}
         <div class="page">
-          <div class="sidebar">
+          <section id=sidebar-nav class="sidebar">
             {{- partial "sidebar.html" . }}
-          </div>
+          </section>
           <div class="docs-content">
           {{- block "main" . }}{{- end }}
           </div>
