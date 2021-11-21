@@ -1,11 +1,16 @@
 
 <header>
-  <div class="site-logo">
-    <a href="{{ .Site.BaseURL }}/">
-      <img src="{{ .Site.BaseURL }}images/e-heza-logo.png">
-    </a>
+  <div class="header-left">
+    <div class="site-logo">
+      <a href="{{ .Site.BaseURL }}/">
+        <img src="{{ .Site.BaseURL }}images/e-heza-logo.png">
+      </a>
+    </div>
+    <div class="site-title">
+      E-Heza Documentation
+    </div>
   </div>
-  <div class="site-title">
-    E-Heza Documentation
+  <div class="header-right">
+    <button class="nav-button" onclick="sidebarNav()"><img src="/images/hamburger_icon_white.svg" alt=""></button>
   </div>
 </header>
