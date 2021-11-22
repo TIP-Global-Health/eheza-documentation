@@ -1,8 +1,9 @@
-+++
-section = "CHW Modules"
-title = "Newborn Exam"
-
-+++
+---
+section: "CHW Modules"
+subsection: "Antenatal Care"
+title: "Newborn - CHW Workflow"
+weight: 3
+---
 The Newborn Exam is performed, when applicable, after an Antenatal Post-Partum encounter, once a newborn has been registered in E-Heza. The Newborn Exam allows CHW’s to check in on a child, ensure that it has received the necessary immunizations, and begin tracking the child’s growth and development.
 
 There are 3 main activities in the Newborn Exam: history, immunizations, and nutrition assessment.

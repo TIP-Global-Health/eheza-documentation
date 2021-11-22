@@ -1,8 +1,10 @@
-+++
-section = "CHW Modules"
-title = "Antenatal Care Module "
+---
+section: "CHW Modules"
+subsection: "Antenatal Care"
+title: "Pregnancy - CHW Workflow"
+weight: 1
 
-+++
+---
 The Antenatal Care (ANC) module for CHW’s works collaboratively with the CHW module. A nurse at a Health Center can see what has happened in CHW visits and seamlessly continue care.
 
 There are 7 main activities in this module and they appear when appropriate in the pregnancy. The main activities are: Pregnancy Dating, Labs, Danger Signs, Birth Plan, Health Education, Appointment Confirmation, and Pregnancy Outcome.
