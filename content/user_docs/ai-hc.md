@@ -1,8 +1,8 @@
 ---
 section: "Health Center Modules"
-subsection: "Pediatric Care"
-title: "Integrated Management of Childhood Illnesses (ICMI) - Health Center Workflow"
-weight: 4
+subsection: "Acute Illness Management"
+title: "Acute Illness Assessment - Health Center Workflow"
+weight: 1
 
 ---
 
