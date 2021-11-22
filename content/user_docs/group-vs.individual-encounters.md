@@ -1,6 +1,6 @@
 ---
 section: "CHW Modules"
-subsection: "Child Nutrition"
+subsection:
 title: "Group vs. Individual Encounters"
 weight: 1
 

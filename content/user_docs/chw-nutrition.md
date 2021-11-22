@@ -1,8 +1,8 @@
 ---
 section: "CHW Modules"
 subsection: Child Nutrition
-title: "Diagnosis, Treatment, and Referral of Malnutrition"
-weight: 2
+title: "Diagnosis, Treatment, and Referral of Malnutrition - CHW Workflow"
+weight: 3
 ---
 The Nutrition Module at the CHW level allows early detection of malnutrition in children at the community level, allowing them to be referred to a health center nutrition program.
 

@@ -1,7 +1,7 @@
 ---
 section: "CHW Modules"
 subsection: "Child Nutrition"
-title: "Nutrition Dashboards - CHW Workflow"
-weight: 6
+title: "Group Encounters - CHW Workflow"
+weight: 1
 
 ---
