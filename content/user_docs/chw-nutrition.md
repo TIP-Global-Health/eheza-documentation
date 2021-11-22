@@ -1,8 +1,9 @@
-+++
-section = "CHW Modules"
-title = "Nutrition Module"
-
-+++
+---
+section: "CHW Modules"
+subsection: Child Nutrition
+title: "Diagnosis, Treatment, and Referral of Malnutrition"
+weight: 2
+---
 The Nutrition Module at the CHW level allows early detection of malnutrition in children at the community level, allowing them to be referred to a health center nutrition program.
 
 **General Nutrition Encounter**  
@@ -50,5 +51,5 @@ Food Security collects information about the household's primary source of incom
 
 {{< media image_path="uploads/nutri-home-food-security.png" >}}
 
-  
-[This video](https://www.youtube.com/watch?v=1EV8xInZ71E) demonstrates how the nutrition module can also help diagnose some alternative causes of malnutritions such as malaria. 
+
+[This video](https://www.youtube.com/watch?v=1EV8xInZ71E) demonstrates how the nutrition module can also help diagnose some alternative causes of malnutritions such as malaria.

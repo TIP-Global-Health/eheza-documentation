@@ -1,8 +1,10 @@
-+++
-section = "General"
-title = "Group vs. Individual Encounters"
+---
+section: "CHW Modules"
+subsection: "Child Nutrition"
+title: "Group vs. Individual Encounters"
+weight: 1
 
-+++
+---
 ## **Group vs Individual Encounter**
 
 E-Heza supports both group and individual encounters at both the CHW and Health Center levels. This feature allows health care workers to perform large group assessments more efficiently and reduces burnout.

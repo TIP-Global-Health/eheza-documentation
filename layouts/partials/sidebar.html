@@ -7,11 +7,27 @@
   </ul>
 
     <h3>CHW Modules</h3>
+    <h4>Integrated Community Case Management</h4>
     <ul>
-      {{ range where (where .Site.RegularPages "Type" "user_docs") "Params.section" "CHW Modules" }}
+      {{ range where (where (where .Site.RegularPages.ByWeight "Type" "user_docs") "Params.section" "CHW Modules") "Params.subsection" "Integrated Community Case Management" }}
        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
+
+    <h4>Antenatal Care</h4>
+    <ul>
+      {{ range where (where (where .Site.RegularPages.ByWeight "Type" "user_docs") "Params.section" "CHW Modules") "Params.subsection" "Antenatal Care" }}
+       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+
+    <h4>Child Nutrition</h4>
+    <ul>
+      {{ range where (where (where .Site.RegularPages "Type" "user_docs") "Params.section" "CHW Modules") "Params.subsection" "Child Nutrition" }}
+       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+
     <h3>Health Center Modules</h3>
     <ul>
       {{ range where (where .Site.RegularPages "Type" "user_docs") "Params.section" "Health Center Modules" }}
