@@ -9,6 +9,6 @@ Acute Illness encounters at both the Health Center and CHW level accommodate for
 
 When a patient is suspected of having COVID at the Health Center level, they will be given a rapid test to confirm a diagnosis. They will then undergo a more in-depth physical exam to determine how severe their COVID case is. E-Heza will then direct the nurse on the appropriate next steps and medication distribution (if applicable). 
 
-\*{{< media image_path="/uploads/yes.png" class="half" >}}
+{{< media image_path="/uploads/vitals.png" class="half" >}}
 
 {{< media image_path="/uploads/yes.png" class="half" >}}
