@@ -1,9 +1,12 @@
 ---
-section: "CHW Modules"
+section: CHW Modules
 subsection: Child Nutrition
-title: "Diagnosis, Treatment, and Referral of Malnutrition - CHW Workflow"
+title: Diagnosis, Treatment, and Referral of Malnutrition - CHW Workflow
 weight: 3
+
 ---
+Once all assessment data is entered, build in decision matrices diagnoses malnutrition (underweight, stunting, wasting, and acute), considers danger signs such as edema, and then recommends next steps based upon the severity of the diagnosis.
+
 The Nutrition Module at the CHW level allows early detection of malnutrition in children at the community level, allowing them to be referred to a health center nutrition program.
 
 **General Nutrition Encounter**  
@@ -50,6 +53,5 @@ Hygiene collects information about the household’s water source to ensure that
 Food Security collects information about the household's primary source of income and their current food availability.
 
 {{< media image_path="uploads/nutri-home-food-security.png" >}}
-
 
 [This video](https://www.youtube.com/watch?v=1EV8xInZ71E) demonstrates how the nutrition module can also help diagnose some alternative causes of malnutritions such as malaria.
