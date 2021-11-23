@@ -22,3 +22,5 @@ CHWs conduct monthly group nutrition assessments. This module allows CHWs to tak
 **Height Activity featuring Z-Score Height for Age**
 
 {{< media image_path="/uploads/zscore-height.png" class="half" >}}
+
+You can also see a group nutrition encounter at the community level in action [here.](https://www.youtube.com/watch?v=ICzO0VbQ0dA)
