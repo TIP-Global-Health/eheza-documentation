@@ -1,11 +1,11 @@
 ---
-section: "CHW Modules"
-subsection: "Integrated Community Case Management"
-title: "Diagnosis, Treatment, and Referral of Childhood Illnesses - CHW Workflow"
+section: CHW Modules
+subsection: Integrated Community Case Management
+title: Diagnosis, Treatment, and Referral of Childhood Illnesses - CHW Workflow
 weight: 1
 
 ---
-The Acute Illness module for CHW’s is used as the first line of care. CHW’s are able to diagnose patients on the spot, provide immediate care and health education, or direct patients to a health center to receive further care.
+Established to support CHWs' ability to continue their work despite COVID-19. Allows CHWs to screen for COVID-19, identify, isolate and refer suspects. If COVID-19 not suspected, allows CHWs to evaluate for, diagnose, treat, and refer if needed cases of malaria, diarrhea, and pneumonia. Decision matrices tailored to the needs of all age groups and sub populations (ex. pregnant women). This workflow supports traditional U5 ICCM as well as all age groups
 
 There are four main activities in the Acute Illness module: Symptom Review, Exposure/Travel History, Prior Treatment History, and Physical Exam.
 
