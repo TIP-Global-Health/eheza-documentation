@@ -33,25 +33,3 @@ Photo is used to track the growth of a child. A favorite feature among children,
 {{< media image_path="uploads/chw-nutr-photo.png" >}}
 
 You can also see a group nutrition encounter at the community level in action [here.](https://www.youtube.com/watch?v=ICzO0VbQ0dA)
-
-**Nutrition Home Encounter**
-
-At the CHW level, E-Heza also supports Nutrition Home Visits. This type of encounter has four activities: feeding, caring, hygiene, and food security.
-
-Feeding allows a CHW to follow up on if the child is receiving the correct amounts of food supplement, type of supplemental food, and any problems the child may be facing to eat adequate amounts of the food.
-
-{{< media image_path="uploads/nutri-home-feeding.png" >}}
-
-Caring allows the CHW to check in on who the primary caregiver of a child is and that they are being kept clean.
-
-{{< media image_path="uploads/nutri-home-caring.png" >}}
-
-Hygiene collects information about the household’s water source to ensure that the child has access to clean water.
-
-{{< media image_path="uploads/nutri-home-hygiene.png" >}}
-
-Food Security collects information about the household's primary source of income and their current food availability.
-
-{{< media image_path="uploads/nutri-home-food-security.png" >}}
-
-[This video](https://www.youtube.com/watch?v=1EV8xInZ71E) demonstrates how the nutrition module can also help diagnose some alternative causes of malnutritions such as malaria.
