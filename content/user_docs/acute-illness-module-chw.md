@@ -27,4 +27,6 @@ Physical Exam collects information on vitals (e.g. temperature and heart rate) a
 
 The next steps are outlined depending on the diagnosis and severity of the illness. The next steps will outline basic medication distribution, health guidance/education, and referral to a health center (when necessary).
 
-You can see an example of a CHW using the Acute Illness module to diagnose a COVID-19 patient [here.](https://www.youtube.com/watch?v=r0A_SydPX50)
+Below you can see an example of a CHW using the Acute Illness module to diagnose a COVID-19 patient.
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/r0A_SydPX50](https://www.youtube.com/embed/r0A_SydPX50 "https://www.youtube.com/embed/r0A_SydPX50")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
