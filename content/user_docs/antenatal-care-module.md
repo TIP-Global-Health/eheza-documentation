@@ -1,10 +1,12 @@
 ---
-section: "Health Center Modules"
-subsection: "Antenatal Care"
-title: "Pregnancy - Health Center Workflow"
+section: Health Center Modules
+subsection: Antenatal Care
+title: Pregnancy - Health Center Workflow
 weight: 1
 
 ---
+This module allows midwives and nurses to provide full scope antenatal care services. The module is trimester-responsive while ensuring tasks expected in earlier trimesters are completed if a pregnant woman accesses care later in her pregnancy. Automated calculations for estimated due date, gestational age, and Gravida/Para
+
 The Antenatal Care (ANC) module at the Health Center works collaboratively with the CHW module. A nurse at a Health Center can see what has happened in CHW visits and seamlessly continue care.
 
 There are nine main activities in the ANC module. Activities appear in the main tray of E-Heza depending on which of their ANC visits a patient is on. The activities are Pregnancy Dating, History, Examination, Family Planning, Medication, Malaria Prevention, Medication Distribution, Danger Signs, Labs, and Photo.
