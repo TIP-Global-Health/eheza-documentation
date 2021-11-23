@@ -5,11 +5,8 @@ title: Diagnosis, Treatment, and Referral of Malnutrition - CHW Workflow
 weight: 3
 
 ---
-Once all assessment data is entered, build in decision matrices diagnoses malnutrition (underweight, stunting, wasting, and acute), considers danger signs such as edema, and then recommends next steps based upon the severity of the diagnosis.
-
 The Nutrition Module at the CHW level allows early detection of malnutrition in children at the community level, allowing them to be referred to a health center nutrition program.
 
-**General Nutrition Encounter**  
 There are five activities in the Nutrition Module at the CHW level: MUAC, nutrition, height, weight, and photo.
 
 MUAC collects the circumference of the child’s arm in centimeters and indicates immediately with a red or green arrow if the child is above or below where they should be.
@@ -32,4 +29,4 @@ Photo is used to track the growth of a child. A favorite feature among children,
 
 {{< media image_path="uploads/chw-nutr-photo.png" >}}
 
-You can also see a group nutrition encounter at the community level in action [here.](https://www.youtube.com/watch?v=ICzO0VbQ0dA)
+Once all assessment data is entered, built-in decision matrices diagnose malnutrition (underweight, stunting, wasting, and acute), considers danger signs such as edema, and then recommends next steps based upon the severity of the diagnosis.
