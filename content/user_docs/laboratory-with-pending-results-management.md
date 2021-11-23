@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "Health Center Modules"
 subsection = "Antenatal Care"
 title = "Laboratory with Pending Results Management"
