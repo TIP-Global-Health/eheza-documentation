@@ -1,10 +1,12 @@
 ---
-section: "CHW Modules"
-subsection: "Antenatal Care"
-title: "Pregnancy - CHW Workflow"
+section: CHW Modules
+subsection: Antenatal Care
+title: Pregnancy - CHW Workflow
 weight: 1
 
 ---
+This module allows CHWs to identify and register pregnant women in their villages. CHWs can provide health education tailored to the pregnant woman's trimester of pregnancy and she can review pregnancy progress on the progress report. The tool prompts the CHW to schedule her follow up home visit and allows her to tell the pregnant woman when she needs to attend her next facility ANC visit.
+
 The Antenatal Care (ANC) module for CHW’s works collaboratively with the CHW module. A nurse at a Health Center can see what has happened in CHW visits and seamlessly continue care.
 
 There are 7 main activities in this module and they appear when appropriate in the pregnancy. The main activities are: Pregnancy Dating, Labs, Danger Signs, Birth Plan, Health Education, Appointment Confirmation, and Pregnancy Outcome.
