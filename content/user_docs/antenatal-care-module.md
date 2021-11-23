@@ -13,8 +13,6 @@ There are nine main activities in the ANC module. Activities appear in the main 
 
 Pregnancy Dating confirms the last menstrual period (LMP), which in turn informs the Estimated Due Date (EDD) and Estimated Gestational Age (EGA). A nurse is able to confirm the LMP entered by the CHW if a CHW has been seen previously.
 
-{{< media image_path="/uploads/malaria-prog-report.png" class="half" >}}
-
 History is comprised of three sub-activities Obstetric History, Medical History, and Partner Information. These work together to inform Gravida and Para, as well as identify any previous complications during childbirth. E-Heza also screens both the mother and the partner for HIV, while also providing health education to both.
 
 The examination is comprised of five sub-activities Vitals, Nutrition Assessment, Core Exam, Obstetrical Exam, and Breast Exam. E-Heza uses these sub-activities to ascertain if there are any symptoms that could cause a complication in the pregnancy and/or the birth of the child.
@@ -25,10 +23,18 @@ Malaria Prevention details if a mother has received a mosquito net.
 
 Medication Distribution details if a mother has received iron and folic acid supplement.
 
+\*{{< media image_path="/uploads/anc-7.png" class="half" >}}
+
 Danger Signs outlines if a mother is currently experiencing any danger signs which would implicate a larger issue or indicate she is a high-risk pregnancy (e.g. vaginal bleeding or fever).
+
+{{< media image_path="/uploads/anc-7.png" class="half" >}}
 
 Labs are run at every ANC visit at a Health Center. E-Heza currently runs labs for HIV, Syphilis, Hepatitis B, Malaria, Blood Group, Rhesus, Urine Dipstick, Random Blood Sugar, and Hemoglobin.
 
 The photo activity allows E-Heza to visually track the progression of the pregnancy - and the patients love to see them as well!
+
+{{< media image_path="/uploads/anc-8.png" class="half" >}}
+
+See the ANC Module in action below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4_tBrDbS-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
