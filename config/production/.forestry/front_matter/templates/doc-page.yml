@@ -14,3 +14,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- content/user_docs/anc-progress-report-chw.md
