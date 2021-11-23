@@ -1,32 +1,36 @@
 ---
-section: ""
-title: "Quickstart Guide for Development"
+section: ''
+title: Quickstart Guide for Development
 
 ---
-
 ## Introduction
 
 TIP’s E-Heza Data Solutions is a digital app designed by and for the frontline health worker that can be used on a smartphone or tablet.
 E-Heza captures essential data at the point of care to improve the health of mother and child by providing frontline health workers with immediate insights to help personalize information and advice, and help the mother track the well-being of her child.
 
-<a href="https://gitpod.io/#https://github.com/Gizra/eheza-app"><img src="https://gitpod.io/button/open-in-gitpod.svg"/></a>
-
 ## Technical stack
- - [Elm](https://elm-lang.org/) for the mobile frontend
- - [Drupal](https://www.drupal.org/) for the backend
+
+* [Elm](https://elm-lang.org/) for the mobile frontend
+* [Drupal](https://www.drupal.org/) for the backend
 
 ## Try out on GitPod
 
 The project is integrated with [GitPod](https://www.gitpod.io/docs/).
+
+<a href="[https://gitpod.io/#https://github.com/Gizra/eheza-app](https://gitpod.io/#https://github.com/Gizra/eheza-app "https://gitpod.io/#https://github.com/Gizra/eheza-app")"><img src="[https://gitpod.io/button/open-in-gitpod.svg](https://gitpod.io/button/open-in-gitpod.svg "https://gitpod.io/button/open-in-gitpod.svg")"/></a>
+
+
 Click on the badge above to try it out the project in action and start editing
 the source code! By default, Drupal and Elm client is accessible publicly, and you
 can access other DDEV services like [Mailhog](https://github.com/mailhog/MailHog) using the non-HTTPS port, for instance
 `8026-` should work for checking the outgoing mails.
 Primary ports:
-- `8888` for Drupal
-- `3000` for Elm frontend
+
+* `8888` for Drupal
+* `3000` for Elm frontend
 
 ### GitPod first steps
+
 1. Wait until the Drupal login page shows up
 2. Login with `admin` / `admin` into the Drupal backend.
 3. Choose "Remote Explorer" on the left and open port 3000 too, either in new browser window or in preview.
@@ -38,13 +42,14 @@ Primary ports:
 8. Explore the system.
 
 Known issues:
- - Sometimes `gulp` fails to download all the Elm packages. Then locate the running process: `ps aux | grep gulp`, kill it, and launch it again: `ddev gulp`.
+
+* Sometimes `gulp` fails to download all the Elm packages. Then locate the running process: `ps aux | grep gulp`, kill it, and launch it again: `ddev gulp`.
 
 ## Develop locally with DDEV
 
 ### Requirements
 
-- https://ddev.readthedocs.io/en/latest/#installation
+* https://ddev.readthedocs.io/en/latest/#installation
 
 ### Backend
 
@@ -70,7 +75,7 @@ The installation script will perform following steps:
    directory.
 7. Run the Drupal installer (Drush) using the Hedley profile.
 
-***Warning!***
+**_Warning!_**
 
 * The process above will not preserve the data located in the
   sites/default/files directory.
@@ -90,11 +95,9 @@ can be found under the repository root, so most of the time, you can copy it fro
 
 #### Steps
 
-```
-ddev start
-ddev gulp publish
-ddev robo deploy:pantheon
-```
+    ddev start
+    ddev gulp publish
+    ddev robo deploy:pantheon
 
 To generate the release notes, use `ddev robo generate:release-notes prev-tag`.
 
@@ -124,11 +127,11 @@ You may need to update `src/elm/LocalConfig.elm` if your local URLs are differen
 Our `gulpfile.js` has a task `ddev gulp zscore` which converts the raw Z-Score tables we
 downloaded from the WHO web site into three formats:
 
-- A JSON representation the client can download via an HTTP request (and
+* A JSON representation the client can download via an HTTP request (and
   cache).
-- A JSON representation that the backend can load (to calculate Z-Scores on the
+* A JSON representation that the backend can load (to calculate Z-Scores on the
   backend.
-- An Elm module which contains the JSON representation as a string, so we can
+* An Elm module which contains the JSON representation as a string, so we can
   unit-test the Elm code.
 
 This should all happen automatically when you run `ddev gulp`.
