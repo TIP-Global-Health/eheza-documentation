@@ -23,5 +23,3 @@ Hygiene collects information about the household’s water source to ensure that
 Food Security collects information about the household's primary source of income and their current food availability.
 
 {{< media image_path="uploads/nutri-home-food-security.png" >}}
-
-[This video](https://www.youtube.com/watch?v=1EV8xInZ71E) demonstrates how the nutrition module can also help diagnose some alternative causes of malnutritions such as malaria.
