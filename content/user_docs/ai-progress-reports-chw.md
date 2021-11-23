@@ -1,7 +1,7 @@
 ---
 section: CHW Modules
 subsection: Integrated Community Case Management
-title: ICMI Progress Reports - CHW Workflow
+title: IMCI Progress Reports - CHW Workflow
 weight: 2
 
 ---
