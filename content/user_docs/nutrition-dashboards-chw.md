@@ -5,4 +5,6 @@ title: Nutrition Dashboards - CHW Workflow
 weight: 6
 
 ---
-Allows CHWs to see the # of nutrition encounters she has conducted, the percentage of children with good nutrition, and the prevalence/incidence of malnutrition by subtype.
+Allows CHWs to see the number of nutrition encounters she has conducted, the percentage of children with good nutrition, and the prevalence/incidence of malnutrition by subtype.
+
+{{< media image_path="/uploads/chw-nutrition-dashboard.png" class="half" >}}
