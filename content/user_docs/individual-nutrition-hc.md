@@ -11,14 +11,15 @@ There are 5 activities in the Nutrition Module: height, MUAC, weight, nutrition,
 
 Height collects the height of a child in centimeters, automatically calculates their Z-Score, and highlights with a red or green arrow if they are above or below where they should be.
 
-\*{{< media image_path="/uploads/malaria-prog-report.png" class="half" >}}
+\*{{< media image_path="/uploads/hc-nutr-height.png" class="half" >}}
 
 MUAC collects the circumference of the child’s arm in centimeters and indicates immediately with a red or green arrow if the child is above or below where they should be.
 
 \*{{< media image_path="/uploads/malaria-prog-report.png" class="half" >}}
 
-Weight collects the weight of a child in kilograms, automatically calculates their Z-Score for height and age, and highlights with a red or green arrow if they are above or below where they should be.  
-\*{{< media image_path="/uploads/malaria-prog-report.png" class="half" >}}
+Weight collects the weight of a child in kilograms, automatically calculates their Z-Score for height and age, and highlights with a red or green arrow if they are above or below where they should be.
+
+{{< media image_path="/uploads/hc-nutri-weight.png" class="half" >}}
 
 Nutrition collects data regarding visible signs of malnutrition in a child (e.g. edema or brittle hair.
 
