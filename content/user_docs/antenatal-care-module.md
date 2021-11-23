@@ -41,6 +41,8 @@ Danger Signs outlines if a mother is currently experiencing any danger signs whi
 
 Labs are run at every ANC visit at a Health Center. E-Heza currently runs labs for HIV, Syphilis, Hepatitis B, Malaria, Blood Group, Rhesus, Urine Dipstick, Random Blood Sugar, and Hemoglobin.
 
+{{< media image_path="/uploads/blood-group.png" class="half" >}}
+
 The photo activity allows E-Heza to visually track the progression of the pregnancy - and the patients love to see them as well!
 
 {{< media image_path="/uploads/anc-8.png" class="half" >}}
