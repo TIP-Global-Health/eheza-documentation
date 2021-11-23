@@ -1,9 +1,12 @@
 ---
-section: "CHW Modules"
-subsection: "Antenatal Care"
-title: "Newborn - CHW Workflow"
+section: CHW Modules
+subsection: Antenatal Care
+title: Newborn - CHW Workflow
 weight: 3
+
 ---
+Allows CHWs to conduct a health assessment of the newborn and document vaccines that were given after birth. CHWs are reminded to provide health education and anticipatory guidance. Supports assessment, diagnosis, treatment and referral of malnutrition. Allows CHWs to schedule a follow up visit on their case management module if needed. A progress report outlines problems identified, immunizaiton record summary and growth trends.
+
 The Newborn Exam is performed, when applicable, after an Antenatal Post-Partum encounter, once a newborn has been registered in E-Heza. The Newborn Exam allows CHW’s to check in on a child, ensure that it has received the necessary immunizations, and begin tracking the child’s growth and development.
 
 There are 3 main activities in the Newborn Exam: history, immunizations, and nutrition assessment.
