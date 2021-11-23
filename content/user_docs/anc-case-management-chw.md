@@ -5,3 +5,4 @@ title: ANC Case Management - CHW Workflow
 weight: 4
 
 ---
+Allows CHWs to see all pregnant women in their villages and to track when they are due for a home visit. CHWs can conduct a follow up ANC visit or post-partum visit from this module.
