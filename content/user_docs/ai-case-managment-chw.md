@@ -1,7 +1,7 @@
 ---
 section: CHW Modules
 subsection: Integrated Community Case Management
-title: AI Case Management - CHW Workflow
+title: ICMI Case Management - CHW Workflow
 weight: 3
 
 ---
