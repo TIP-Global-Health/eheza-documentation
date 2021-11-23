@@ -29,4 +29,4 @@ The next steps are outlined depending on the diagnosis and severity of the illne
 
 Below you can see an example of a CHW using the Acute Illness module to diagnose a COVID-19 patient.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/r0A_SydPX50](https://www.youtube.com/embed/r0A_SydPX50 "https://www.youtube.com/embed/r0A_SydPX50")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/r0A_SydPX50](https://www.youtube.com/embed/r0A_SydPX50 "https://www.youtube.com/embed/r0A_SydPX50")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
