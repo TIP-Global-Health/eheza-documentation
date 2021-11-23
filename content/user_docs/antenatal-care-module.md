@@ -13,7 +13,7 @@ There are nine main activities in the ANC module. Activities appear in the main 
 
 Pregnancy Dating confirms the last menstrual period (LMP), which in turn informs the Estimated Due Date (EDD) and Estimated Gestational Age (EGA). A nurse is able to confirm the LMP entered by the CHW if a CHW has been seen previously.
 
-{{< media image_path="/uploads/anc-1.png" class="half" >}
+{{< media image_path="/uploads/anc-1.png" class="half" >}}
 
 History is comprised of three sub-activities Obstetric History, Medical History, and Partner Information. These work together to inform Gravida and Para, as well as identify any previous complications during childbirth. E-Heza also screens both the mother and the partner for HIV, while also providing health education to both.
 
