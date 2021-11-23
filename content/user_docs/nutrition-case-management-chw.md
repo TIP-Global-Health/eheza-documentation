@@ -1,7 +1,7 @@
 ---
-section: "CHW Modules"
-subsection: "Child Nutrition"
-title: "Case Management - CHW Workflow"
+section: CHW Modules
+subsection: Child Nutrition
+title: Nutrition Case Management - CHW Workflow
 weight: 4
 
 ---
