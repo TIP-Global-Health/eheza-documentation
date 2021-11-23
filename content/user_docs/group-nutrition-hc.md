@@ -6,6 +6,6 @@ weight: 3
 
 ---
 
-/uploads/hc-group-mother.png
+{{< media image_path="/uploads/hc-group-mother.png" class="half" >}}
 
-/uploads/hc-group-acitivyt.png
+{{< media image_path="/uploads/hc-group-acitivyt.png" class="half" >}}
