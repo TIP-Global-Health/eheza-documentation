@@ -17,7 +17,7 @@ E-Heza captures essential data at the point of care to improve the health of mot
 
 The project is integrated with [GitPod](https://www.gitpod.io/docs/).
 
-<a href="[https://gitpod.io/#https://github.com/Gizra/eheza-app](https://gitpod.io/#https://github.com/Gizra/eheza-app "https://gitpod.io/#https://github.com/Gizra/eheza-app")"><img src="[https://gitpod.io/button/open-in-gitpod.svg](https://gitpod.io/button/open-in-gitpod.svg "https://gitpod.io/button/open-in-gitpod.svg")"/></a>
+<a href="https://gitpod.io/#https://github.com/Gizra/eheza-app"><img src="https://gitpod.io/button/open-in-gitpod.svg"/></a>
 
 
 Click on the badge above to try it out the project in action and start editing

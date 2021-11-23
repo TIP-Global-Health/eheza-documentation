@@ -13,17 +13,27 @@ There are nine main activities in the ANC module. Activities appear in the main 
 
 Pregnancy Dating confirms the last menstrual period (LMP), which in turn informs the Estimated Due Date (EDD) and Estimated Gestational Age (EGA). A nurse is able to confirm the LMP entered by the CHW if a CHW has been seen previously.
 
+{{< media image_path="/uploads/anc-1.png" class="half" >}
+
 History is comprised of three sub-activities Obstetric History, Medical History, and Partner Information. These work together to inform Gravida and Para, as well as identify any previous complications during childbirth. E-Heza also screens both the mother and the partner for HIV, while also providing health education to both.
+
+{{< media image_path="/uploads/anc-3.png" class="half" >}}
 
 The examination is comprised of five sub-activities Vitals, Nutrition Assessment, Core Exam, Obstetrical Exam, and Breast Exam. E-Heza uses these sub-activities to ascertain if there are any symptoms that could cause a complication in the pregnancy and/or the birth of the child.
 
+{{< media image_path="/uploads/anc-2.png" class="half" >}}
+
 Family Planning notes what, if any, methods of family planning will be used by the couple after the conclusion of the current pregnancy.
+
+{{< media image_path="/uploads/anc-4.png" class="half" >}}
 
 Malaria Prevention details if a mother has received a mosquito net.
 
+{{< media image_path="/uploads/anc-5.png" class="half" >}}
+
 Medication Distribution details if a mother has received iron and folic acid supplement.
 
-\*{{< media image_path="/uploads/anc-7.png" class="half" >}}
+{{< media image_path="/uploads/anc-6.png" class="half" >}}
 
 Danger Signs outlines if a mother is currently experiencing any danger signs which would implicate a larger issue or indicate she is a high-risk pregnancy (e.g. vaginal bleeding or fever).
 
