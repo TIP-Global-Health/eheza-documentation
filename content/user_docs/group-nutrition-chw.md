@@ -23,4 +23,6 @@ CHWs conduct monthly group nutrition assessments. This module allows CHWs to tak
 
 {{< media image_path="/uploads/zscore-height.png" class="half" >}}
 
-You can also see a group nutrition encounter at the community level in action [here.](https://www.youtube.com/watch?v=ICzO0VbQ0dA)
+You can also see a group nutrition encounter at the community level in action below: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ICzO0VbQ0dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
