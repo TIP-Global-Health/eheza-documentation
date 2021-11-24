@@ -11,6 +11,8 @@ CHWs conduct monthly group nutrition assessments. This module allows CHWs to tak
 
 {{< media image_path="/uploads/group-parent.png" class="half" >}}
 
+{{< media image_path="/uploads/screencapture-nutrition-ihangane-pantheonsite-io-app-2021-11-24-18_27_39.png" class="half" >}}
+
 **Activity View**
 
 {{< media image_path="/uploads/group-acitvity.png" class="half" >}}
@@ -23,6 +25,6 @@ CHWs conduct monthly group nutrition assessments. This module allows CHWs to tak
 
 {{< media image_path="/uploads/zscore-height.png" class="half" >}}
 
-You can also see a group nutrition encounter at the community level in action below: 
+You can also see a group nutrition encounter at the community level in action below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICzO0VbQ0dA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
