@@ -15,7 +15,7 @@ CHWs conduct monthly group nutrition assessments. This module allows CHWs to tak
 
 **Activity View**
 
-{{< media image_path="/uploads/group-acitvity.png" class="half" >}}
+{{< media image_path="/uploads/group-acitvity.png" class="half" >}} 
 
 **Weight Activity featuring Z-Score Weight for Age**
 
