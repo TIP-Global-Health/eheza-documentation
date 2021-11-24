@@ -33,4 +33,12 @@ The next steps are outlined depending on the diagnosis and severity of the illne
 
 Contact tracing is currently used for COVID-19 and can easily be used for other instances that require it.
 
-{{< media image_path="uploads/hc-ai-contact-tracing.png" >}} 
+{{< media image_path="uploads/hc-ai-contact-tracing.png" >}}
+
+**Decision Support and Next Step Guidance**
+
+Using the inputs from the above sections, E-Heza is then able to direct CHWs on suspected diagnosis and next steps. 
+
+{{< media image_path="/uploads/chw-ai.png" >}}
+
+{{< media image_path="/uploads/chw-ai1.png" >}}
