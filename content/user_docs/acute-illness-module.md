@@ -35,7 +35,7 @@ Contact tracing is currently used for COVID-19 and can easily be used for other 
 
 {{< media image_path="uploads/hc-ai-contact-tracing.png" >}}
 
-**Decision Support and Next Step Guidance**
+#### **Decision Support and Next Step Guidance**
 
 Using the inputs from the above sections, E-Heza is then able to direct CHWs on suspected diagnosis and next steps. 
 
