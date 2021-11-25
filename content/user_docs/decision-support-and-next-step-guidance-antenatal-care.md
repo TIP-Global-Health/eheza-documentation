@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "CHW Modules"
 subsection = "Antenatal Care"
 title = "Decision Support and Next Step Guidance Antenatal Care"
