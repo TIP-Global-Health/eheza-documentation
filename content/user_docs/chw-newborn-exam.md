@@ -2,7 +2,7 @@
 section: CHW Modules
 subsection: Antenatal Care
 title: Newborn - CHW Workflow
-weight: 4
+weight: 5
 
 ---
 Allows CHWs to conduct a health assessment of the newborn and document vaccines that were given after birth. CHWs are reminded to provide health education and anticipatory guidance. Supports assessment, diagnosis, treatment and referral of malnutrition. Allows CHWs to schedule a follow up visit on their case management module if needed. A progress report outlines problems identified, immunizaiton record summary and growth trends.
