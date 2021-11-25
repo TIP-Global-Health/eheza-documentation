@@ -17,4 +17,4 @@ When a patient is suspected of having COVID at the Health Center level, they wil
 
 {{< media image_path="/uploads/hc-covid-diagnosis.png" class="half" >}}
 
-{{< media image_path="/uploads/hc-covid-medication.png" class="half" >}
+{{< media image_path="/uploads/hc-covid-medication.png" class="half" >} 
