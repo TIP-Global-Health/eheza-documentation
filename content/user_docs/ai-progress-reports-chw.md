@@ -2,7 +2,7 @@
 section: CHW Modules
 subsection: Integrated Community Case Management
 title: IMCI Progress Reports - CHW Workflow
-weight: 2
+weight: 3
 
 ---
 This provides a summary of the patient's symptoms, vital signs if taken, diagnosis, treatment, and next steps.
