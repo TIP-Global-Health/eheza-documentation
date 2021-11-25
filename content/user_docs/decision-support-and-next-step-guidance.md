@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "CHW"
 subsection = "Child Nutrition"
 title = "Decision Support and Next Step Guidance"

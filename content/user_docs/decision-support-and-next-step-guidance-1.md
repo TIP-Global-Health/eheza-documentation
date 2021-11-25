@@ -1,5 +1,4 @@
 +++
-draft = true
 section = "CHW Modules"
 subsection = "Integrated Community Case Management"
 title = "Decision Support and Next Step Guidance"
