@@ -31,3 +31,7 @@ After an initial diagnosis is made, it can be confirmed with laboratory testing 
 {{< media image_path="uploads/hc-ai-lab-covid-test.png" >}}
 
 The next steps are outlined depending on the diagnosis and severity of the illness. The next steps will outline medication to distribute, general health education, and allow a Nurse to schedule follow-ups with a CHW.
+
+{{< media image_path="/uploads/hc-ai-1.png" >}}
+
+{{< media image_path="/uploads/hc-ai-2.png" >}}
