@@ -2,7 +2,7 @@
 section: CHW Modules
 subsection: Child Nutrition
 title: Nutrition Case Management - CHW Workflow
-weight: 4
+weight: 5
 
 ---
 Allows CHWs to track children with malnutrition. CHWs can initiate a home visit from this screen.
