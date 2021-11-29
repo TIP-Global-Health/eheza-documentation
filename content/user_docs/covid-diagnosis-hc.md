@@ -17,7 +17,7 @@ When a patient is suspected of having COVID at the Health Center level, they wil
 
 {{< media image_path="/uploads/hc-covid-diagnosis.png" class="half" >}}
 
-{{< media image_path="/uploads/hc-covid-medication.png" class="half" >}
+{{< media image_path="/uploads/hc-covid-medication.png" class="half" >}}
 
 Contact tracing is currently used for COVID-19 and can easily be used for other instances that require it.
 
