@@ -79,6 +79,12 @@
     {{ end }}
   </ul>
   <h2>Research and Support Documentation</h2>
+  <h3>Design Guidelines</h3>
+  <ul>
+    {{ range where (where .Site.RegularPages "Type" "research_docs") "Params.section" "Design Guidelines" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
 
   <h3>User testing sessions</h3>
   <ul>
