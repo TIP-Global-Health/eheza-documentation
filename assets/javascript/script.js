@@ -7,3 +7,8 @@ function sidebarNav() {
     x.className = "sidebar";
   }
 }
+
+$(function() {
+  // Add deep anchor links to projects page.
+  anchors.add('h2, h3');
+});
