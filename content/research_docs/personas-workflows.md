@@ -84,3 +84,13 @@ E-Heza patients fall in the following categories and are encountered by one of t
 **Differentiator**
 
 Patients may not have immediate access to professional health care workers or information and they may not be familiar with the care required for a particular medical condition or how to access it.
+
+## Current E-Heza Workflows
+
+
+| Encounter Type | Context | Personas | Activities/Measurements |
+| --- | --- | --- | --- |
+| Group Nutrition | - FBF Groups of up to 150 mother/child pairs- PMTCT groups of up to 30 mother/child pairs- School groups of up to 200 children | Nurse, CHW (village) Patient (Mother/Child) | Height, weight, MUAC, photo, nutrition signs, family planning. |
+| Individual Nutrition | - CHW visits to village | CHW, Patient (Child) | Height, weight, MUAC, photo, nutrition signs |
+| Antenatal Care (ANC) | - pregnant woman visits a healthcare center | Nurse, Patient (Pregnant woman) | Pregnancy dating, medical/obstetric history, physical examination, family planning, patient provisions, danger signs |
+| Acute Illness | - CHW visits to a village | CHW Patient | Symptom review, exposure/travel history, prior treatment, physical exam (respiratory rate, body temperature), next steps/referrals |
