@@ -65,6 +65,12 @@
      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
+  <h3>Support</h3>
+  <ul>
+    {{ range where (where .Site.RegularPages "Type" "admin_docs") "Params.section" "Support" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
 
   <h2>Developer Documentation</h2>
   <ul>
