@@ -1,0 +1,10 @@
+---
+section: Design Guidelines
+title: "Technical Architecture"
+---
+
+E-Heza is built with a decoupled architecture providing both a “frontend” (where healthcare workers enter data) and a “backend” that receives and organizes that data. The frontend is developed in Elm, an open source and functional, statically-typed language that compiles to JavaScript. The back end application is served by Drupal, an open source PHP content management system. The front and back ends communicate through a RESTful API, which is modeled on digital health standards including FHIR-HL7.
+
+Drupal was chosen specifically with scalability in mind, as its sophisticated data abstraction layer is well tested and can efficiently handle millions of nodes of data without the need for high-level infrastructure resources and management. Drupal’s large open-source community (one of the largest in the world with millions of members) provides assurance that most problems we encounter have been seen before, and that there will always be a large developer community to draw talent. A recent scalability test indicates that E-Heza could scale to serve an entire national context in a single instance without changes to architecture or infrastructure. Elm, on the other hand, was chosen for its efficiency in development - as a highly-opinionated and statically-typed language, it provides a smooth onramp for new developers and a clear path for interoperability.
+
+The application is served to the client via progressive web app (PWA) technology. The application registers a “service worker” with the client browser allowing the web application to use local cache and storage to deliver an offline experience and store captured data during periods of low or no connectivity. Opportunistic syncing in the background, sends data in small packets to the backend making bandwidth use minimal and ensuring the data stays on the device only as long as it needs to. Integration with Google Chrome allows users to “install” the app to a home screen and delivers a more “app-like” experience to the user.

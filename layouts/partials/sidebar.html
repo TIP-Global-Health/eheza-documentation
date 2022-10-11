@@ -85,7 +85,7 @@
     {{ end }}
   </ul>
   <h2>Research and Support Documentation</h2>
-  <h3>Design Guidelines</h3>
+  <h3>Functional Specification Document</h3>
   <ul>
     {{ range where (where .Site.RegularPages "Type" "research_docs") "Params.section" "Design Guidelines" }}
      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
@@ -133,6 +133,6 @@
   <h3>Research</h3>
 
   <ul>
-    <li><a href="posts-papers/">Posts & White Papers</a></li>
+    <li><a href="{{ .Site.BaseURL }}/research_docs/posts-papers/">Posts & White Papers</a></li>
     <li><a href="https://docs.google.com/document/d/1E7lxgf30l8Wu3Pf5nDRToj_XoRtalCayP10y5wx4ugg/edit?usp=sharing">Performance & Scalability report</a></li>
   </ul>
