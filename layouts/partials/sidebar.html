@@ -49,6 +49,12 @@
        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
+    <h4>Non-Communicable Disease (NCD) Management</h4>
+    <ul>
+      {{ range where (where (where .Site.RegularPages.ByWeight "Type" "user_docs") "Params.section" "Health Center Modules") "Params.subsection" "Non-Communicable Disease" }}
+       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
 
 
   <h2>Adminstrator Documentation</h2>
