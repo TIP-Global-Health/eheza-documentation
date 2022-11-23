@@ -142,3 +142,10 @@
     <li><a href="{{ .Site.BaseURL }}/research_docs/posts-papers/">Posts & White Papers</a></li>
     <li><a href="https://docs.google.com/document/d/1E7lxgf30l8Wu3Pf5nDRToj_XoRtalCayP10y5wx4ugg/edit?usp=sharing">Performance & Scalability report</a></li>
   </ul>
+
+  <h2>Policies & Procedures</h2>
+  <ul>
+    {{ range where .Site.RegularPages "Type" "policy_docs" }}
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
