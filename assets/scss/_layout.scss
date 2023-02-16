@@ -147,14 +147,32 @@ footer {
   padding: 1em;
 
   img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
   }
 }
 
-.content .image-container.half {
+.docs-content .image-container.half {
   max-width: 400px;
+    img {
+    max-width: 100%;
+    height: auto;
+  }
 }
+
+.docs-content .image-container.quarter {
+  max-width: 150px;
+    img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  &.right {
+    float: left;
+    margin: .5em .5em .5em 0; 
+  }
+}
+
 
 //Notifications
 .notification {

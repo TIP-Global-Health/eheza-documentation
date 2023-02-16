@@ -1,2 +1,3 @@
 baseURL: "https://tip-global-health.github.io/eheza-documentation/"
 canonifyURLs: false
+enableGitInfo: false
