@@ -40,9 +40,32 @@ The Nginx web site contains a Drupal Nginx configuration file that can be used t
 ## Delivery
 The application is served to the client via progressive web app (PWA) technology. The application registers a “service worker” with the client browser allowing the web application to use local cache and storage to deliver an offline experience and store captured data during periods of low or no connectivity. As such, the application is limited to browsers which are compatible with service worker technology (currently, latest Chrome browsers). Integration with Google Chrome allows users to “install” the app to a home screen and delivers a more “app-like” experience to the user.
 
-
 ###At the application level
 The app forces an SSL (HTTPS) connection, which encrypts data transfer and protects from third-party ("man in the middle") attacks. The application uses a standard username/password access protocol, locking down permissions and access to appropriate users defined by their role in the workflow.
 
 ### At the device level
 The devices use standard Android and Samsung security include device locking/password protection and data encryption provided by Android 5
+
+## Security
+Application Backend Security
+Drupal has a robust security framework designed to protect websites against common vulnerabilities. Its core includes built-in defenses against SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF) attacks. Drupal’s role-based access control (RBAC) system allows administrators to assign permissions selectively, ensuring only authorized users can access or modify sensitive areas. Regular security updates are released by the Drupal Security Team, who review and patch any reported vulnerabilities swiftly. Additionally, Drupal encourages best practices for secure coding and site configuration, and it supports HTTPS to encrypt data transfers. 
+
+### Application Frontend Security
+Elm’s strong type system and compiler enforce rigorous checks, helping developers catch issues at compile-time rather than runtime, which reduces common vulnerabilities like null pointer exceptions. Elm’s architecture naturally avoids issues related to mutable state, making it more resilient to unintended side effects that can lead to security flaws. Additionally, Elm's pure functions and immutability prevent unauthorized data manipulation, and its lack of direct JavaScript interoperability reduces exposure to cross-site scripting (XSS) attacks since any JavaScript interaction must pass through controlled ports with strict data structures. 
+
+### Device-Level and PWA Security
+The app is served over HTTPS, ensuring data integrity and encryption during transit, which guards against man-in-the-middle attacks. PWAs rely on service workers for offline functionality and caching, which are tightly scoped to prevent unauthorized access and limit potential attack surfaces. Service workers are subject to strict controls, including origin restrictions and limited API access, which helps mitigate risks like cross-site scripting (XSS) and cross-site request forgery (CSRF). PWAs also utilize secure storage mechanisms, like IndexedDB, which is bound to HTTPS, and they require explicit user permissions for features like geolocation and notifications. 
+
+E-Heza features configurable access control levels that restrict access to specific kinds of information to particular user roles. 
+
+### Database Security
+The E-Heza database itself can be encrypted, and servers should be configured with the following: 
+- Container-based infrastructure
+- Automated, one-click core updates
+- Denial of service protection
+- Automated security monitoring
+- Network intrusion protection
+- Automated HTTPS
+- SAML/SSO/2FA
+- Role-based change management
+- Automated backup and retention
