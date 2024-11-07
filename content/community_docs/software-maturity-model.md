@@ -10,4 +10,4 @@ E-Heza aligns itself with international standards for digital global goods. In p
 ### E-Heza: Current Software Maturity Status
 {{< media image_path="/uploads/eheza-software-maturity.png" >}}
 
-See the full detailed [assessment tool](https://docs.google.com/spreadsheets/d/1n4ThlHyxkC53pWf8qwac9N2Rcw7pRh7nz110pXbV59s/edit?usp=sharing)
+See the full detailed [assessment tool](https://docs.google.com/spreadsheets/d/13nYjJX3rajfwTaV52NwfUQ7Op8veJ3RI/edit?usp=sharing&ouid=104843215453637480834&rtpof=true&sd=true)
