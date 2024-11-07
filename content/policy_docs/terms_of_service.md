@@ -1,4 +1,8 @@
-Terms of Service
+---
+layout: default
+title: Terms of Service
+section: General
+---
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION ABOUT YOUR LEGAL RIGHTS, REMEDIES, AND OBLIGATIONS.
 
